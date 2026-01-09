@@ -1,0 +1,242 @@
+[
+  {
+    "User ID": 1,
+    "Group Code": "DIR",
+    "Group Name": "Directors",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 2,
+    "Group Code": "DIR",
+    "Group Name": "Directors",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 4,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 5,
+    "Group Code": "INF",
+    "Group Name": "IT",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 8,
+    "Group Code": "DIR",
+    "Group Name": "Directors",
+    "Zone": "MONACO",
+    "Legal Entity": "F8MC",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 9,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 10,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 13,
+    "Group Code": "TRT",
+    "Group Name": "Agency",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 15,
+    "Group Code": "TRT",
+    "Group Name": "Agency",
+    "Zone": "TRIESTE",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 16,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 21,
+    "Group Code": "TRT",
+    "Group Name": "Agency",
+    "Zone": "TRIESTE",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 22,
+    "Group Code": "CHR",
+    "Group Name": "Chartering",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 23,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 24,
+    "Group Code": "INF",
+    "Group Name": "IT",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 25,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 26,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 28,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 33,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 34,
+    "Group Code": "INF",
+    "Group Name": "IT",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 37,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 38,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 39,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 40,
+    "Group Code": "ACC",
+    "Group Name": "Accounting",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 43,
+    "Group Code": "INF",
+    "Group Name": "IT",
+    "Zone": "MONACO",
+    "Legal Entity": "MARF",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 44,
+    "Group Code": "TEC",
+    "Group Name": "Technical",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OVE"
+  },
+  {
+    "User ID": 45,
+    "Group Code": "CHR",
+    "Group Name": "Chartering",
+    "Zone": "MONACO",
+    "Legal Entity": "F8ZA",
+    "Default Status Code": "OZA"
+  },
+  {
+    "User ID": 46,
+    "Group Code": "DIR",
+    "Group Name": "Directors",
+    "Zone": "MONACO",
+    "Legal Entity": "ANTT",
+    "Default Status Code": "OTR"
+  },
+  {
+    "User ID": 47,
+    "Group Code": "CHR",
+    "Group Name": "Chartering",
+    "Zone": "MONACO",
+    "Legal Entity": "F8UK",
+    "Default Status Code": "OUK"
+  },
+  {
+    "User ID": 48,
+    "Group Code": "CHR",
+    "Group Name": "Chartering",
+    "Zone": "MONACO",
+    "Legal Entity": "F8MC",
+    "Default Status Code": "OMC"
+  },
+  {
+    "User ID": 49,
+    "Group Code": "CHR",
+    "Group Name": "Chartering",
+    "Zone": "MONACO",
+    "Legal Entity": "F8ZA",
+    "Default Status Code": "OZA"
+  }
+]
