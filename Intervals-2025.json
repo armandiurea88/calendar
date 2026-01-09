@@ -432,6 +432,78 @@
     "To Part": "  "
   },
   {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">FC audit</font>",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-03",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-04",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-16",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
+    "To Part": "  "
+  },
+  {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
@@ -915,13 +987,13 @@
     "From Date": "2025-11-10",
     "From Part": "  ",
     "To Date": "2025-11-11",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
-    "From Date": "2025-11-13",
+    "From Date": "2025-11-12",
     "From Part": "  ",
     "To Date": "2025-11-14",
     "To Part": "  "
@@ -960,6 +1032,42 @@
     "From Date": "2025-12-01",
     "From Part": "  ",
     "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">London</font>",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -1413,6 +1521,87 @@
     "To Part": "  "
   },
   {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "On Board",
+    "Comment": "<font face=\"Times New Roman\">Jalma Topic - Genova</font>",
+    "From Date": "2025-12-05",
+    "From Part": "  ",
+    "To Date": "2025-12-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
     "User ID": 25,
     "Status": "Tele Work",
     "Comment": "",
@@ -1861,6 +2050,60 @@
     "From Date": "2025-11-24",
     "From Part": "  ",
     "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-02",
+    "From Part": "PM",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-08",
+    "From Part": "  ",
+    "To Date": "2025-12-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "PM",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -2373,23 +2616,23 @@
     "Comment": "",
     "From Date": "2025-11-10",
     "From Part": "  ",
-    "To Date": "2025-11-14",
+    "To Date": "2025-11-11",
     "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-13",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "AM"
   },
   {
     "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2025-11-17",
-    "From Part": "  ",
-    "To Date": "2025-11-18",
-    "To Part": "  "
-  },
-  {
-    "User ID": 43,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2025-11-20",
     "From Part": "  ",
     "To Date": "2025-11-21",
     "To Part": "  "
@@ -2398,9 +2641,72 @@
     "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-11-24",
+    "From Date": "2025-11-27",
     "From Part": "  ",
     "To Date": "2025-11-28",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-03",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 43,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-03",
+    "From Part": "PM",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-05",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -2854,6 +3160,96 @@
     "To Part": "  "
   },
   {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-25",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-28",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-31",
+    "From Part": "AM",
+    "To Date": "2025-12-31",
+    "To Part": "AM"
+  },
+  {
     "User ID": 39,
     "Status": "Office MC",
     "Comment": "",
@@ -3291,15 +3687,6 @@
     "Comment": "",
     "From Date": "2025-11-17",
     "From Part": "  ",
-    "To Date": "2025-11-18",
-    "To Part": "  "
-  },
-  {
-    "User ID": 39,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2025-11-20",
-    "From Part": "  ",
     "To Date": "2025-11-21",
     "To Part": "  "
   },
@@ -3325,7 +3712,7 @@
     "User ID": 39,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-12-09",
+    "From Date": "2025-12-11",
     "From Part": "  ",
     "To Date": "2025-12-12",
     "To Part": "  "
@@ -3336,8 +3723,17 @@
     "Comment": "",
     "From Date": "2025-12-15",
     "From Part": "  ",
-    "To Date": "2025-12-19",
+    "To Date": "2025-12-16",
     "To Part": "  "
+  },
+  {
+    "User ID": 39,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "AM"
   },
   {
     "User ID": 39,
@@ -3795,8 +4191,107 @@
     "Comment": "",
     "From Date": "2025-11-04",
     "From Part": "  ",
+    "To Date": "2025-11-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-06",
+    "From Part": "PM",
     "To Date": "2025-11-07",
     "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-18",
+    "From Part": "PM",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-03",
+    "From Part": "  ",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-08",
+    "From Part": "PM",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "PM",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-16",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
+    "To Date": "2025-12-18",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 16,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-31",
+    "To Part": "AM"
   },
   {
     "User ID": 1003,
@@ -4021,6 +4516,87 @@
     "From Date": "2025-11-03",
     "From Part": "  ",
     "To Date": "2025-11-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-02",
+    "From Part": "  ",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2025-12-08",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">working from home</font>",
+    "From Date": "2025-12-25",
+    "From Part": "  ",
+    "To Date": "2025-12-26",
+    "To Part": "  "
+  },
+  {
+    "User ID": 49,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -4486,6 +5062,15 @@
     "User ID": 47,
     "Status": "Office UK",
     "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 47,
+    "Status": "Office UK",
+    "Comment": "",
     "From Date": "2025-11-24",
     "From Part": "  ",
     "To Date": "2025-11-28",
@@ -4493,7 +5078,7 @@
   },
   {
     "User ID": 47,
-    "Status": "Office UK",
+    "Status": "Office MC",
     "Comment": "",
     "From Date": "2025-12-01",
     "From Part": "  ",
@@ -4516,6 +5101,24 @@
     "From Date": "2025-12-15",
     "From Part": "  ",
     "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 47,
+    "Status": "Office UK",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 47,
+    "Status": "Office UK",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-31",
     "To Part": "  "
   },
   {
@@ -5053,9 +5656,9 @@
     "User ID": 46,
     "Status": "Office Trieste",
     "Comment": "",
-    "From Date": "2025-11-24",
+    "From Date": "2025-11-26",
     "From Part": "  ",
-    "To Date": "2025-11-28",
+    "To Date": "2025-11-27",
     "To Part": "  "
   },
   {
@@ -5066,6 +5669,51 @@
     "From Part": "PM",
     "To Date": "2025-12-05",
     "To Part": "AM"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-10",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-16",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
+    "To Part": "  "
   },
   {
     "User ID": 201,
@@ -5667,15 +6315,6 @@
     "User ID": 34,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-11-17",
-    "From Part": "  ",
-    "To Date": "2025-11-18",
-    "To Part": "  "
-  },
-  {
-    "User ID": 34,
-    "Status": "Office MC",
-    "Comment": "",
     "From Date": "2025-11-20",
     "From Part": "  ",
     "To Date": "2025-11-21",
@@ -5705,16 +6344,70 @@
     "Comment": "",
     "From Date": "2025-12-01",
     "From Part": "  ",
-    "To Date": "2025-12-05",
+    "To Date": "2025-12-02",
     "To Part": "  "
   },
   {
     "User ID": 34,
     "Status": "Office MC",
     "Comment": "",
+    "From Date": "2025-12-05",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Sick",
+    "Comment": "",
     "From Date": "2025-12-09",
     "From Part": "  ",
+    "To Date": "2025-12-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "  ",
     "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-17",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -6378,7 +7071,7 @@
     "User ID": 9,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-11-17",
+    "From Date": "2025-11-18",
     "From Part": "  ",
     "To Date": "2025-11-18",
     "To Part": "  "
@@ -6394,19 +7087,82 @@
   },
   {
     "User ID": 9,
-    "Status": "Holidays",
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-25",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-27",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-02",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-04",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-16",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Tele Work",
     "Comment": "",
     "From Date": "2025-12-22",
-    "From Part": "  ",
+    "From Part": "PM",
     "To Date": "2025-12-23",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 9,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2025-12-29",
-    "From Part": "  ",
+    "From Part": "PM",
     "To Date": "2025-12-30",
     "To Part": "  "
   },
@@ -6886,6 +7642,115 @@
     "From Date": "2025-11-03",
     "From Part": "  ",
     "To Date": "2025-11-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "On Board",
+    "Comment": "<font face=\"Times New Roman\">FIORA TOPIC</font>",
+    "From Date": "2025-11-10",
+    "From Part": "PM",
+    "To Date": "2025-11-12",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-13",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Visit",
+    "Comment": "<font face=\"Times New Roman\">GMS FTS</font>",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "On Board",
+    "Vessel": "LOS",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "  ",
+    "To Date": "2025-11-22",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 23,
+    "Status": "Credit Holidays",
+    "Comment": "Trvl Losone Longview",
+    "From Date": "2025-11-22",
+    "From Part": "  ",
+    "To Date": "2025-11-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "PM",
+    "To Date": "2025-12-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "PM",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-18",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 23,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -7416,7 +8281,7 @@
     "Comment": "",
     "From Date": "2025-11-24",
     "From Part": "  ",
-    "To Date": "2025-11-28",
+    "To Date": "2025-11-26",
     "To Part": "  "
   },
   {
@@ -7432,7 +8297,7 @@
     "User ID": 4,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-12-09",
+    "From Date": "2025-12-10",
     "From Part": "  ",
     "To Date": "2025-12-12",
     "To Part": "  "
@@ -7443,8 +8308,17 @@
     "Comment": "",
     "From Date": "2025-12-15",
     "From Part": "  ",
+    "To Date": "2025-12-17",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "  ",
     "To Date": "2025-12-19",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 4,
@@ -7945,7 +8819,7 @@
     "User ID": 38,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-12-29",
+    "From Date": "2025-12-30",
     "From Part": "  ",
     "To Date": "2025-12-30",
     "To Part": "  "
@@ -8428,6 +9302,105 @@
     "To Part": "  "
   },
   {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-11-13",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">,</font>",
+    "From Date": "2025-12-09",
+    "From Part": "PM",
+    "To Date": "2025-12-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-11",
+    "From Part": "PM",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 8,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
+    "To Part": "  "
+  },
+  {
     "User ID": 37,
     "Status": "Holidays",
     "Comment": "",
@@ -8902,6 +9875,78 @@
     "From Date": "2025-11-05",
     "From Part": "  ",
     "To Date": "2025-11-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-11-25",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-17",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -9431,6 +10476,52 @@
     "To Part": "  "
   },
   {
+    "User ID": 10,
+    "Status": "Dry Dock",
+    "Vessel": "GI2",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-10",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-31",
+    "To Part": "AM"
+  },
+  {
     "User ID": 26,
     "Status": "Holidays",
     "Comment": "",
@@ -9885,9 +10976,63 @@
     "User ID": 26,
     "Status": "Office Trieste",
     "Comment": "",
-    "From Date": "2025-11-24",
+    "From Date": "2025-11-25",
     "From Part": "  ",
     "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 26,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-02",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 26,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-03",
+    "From Part": "  ",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 26,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-08",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 26,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-16",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 26,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 26,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -10350,6 +11495,78 @@
     "To Part": "  "
   },
   {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-24",
+    "From Part": "  ",
+    "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-02",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-16",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
+    "To Part": "  "
+  },
+  {
     "User ID": 45,
     "Status": "Office South Africa",
     "Comment": "<font face=\"Times New Roman\">in office</font>",
@@ -10752,6 +11969,69 @@
     "From Date": "2025-10-27",
     "From Part": "  ",
     "To Date": "2025-10-31",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the office</font>",
+    "From Date": "2025-11-10",
+    "From Part": "  ",
+    "To Date": "2025-11-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the office&#160;</font>",
+    "From Date": "2025-11-17",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the office</font>",
+    "From Date": "2025-11-26",
+    "From Part": "  ",
+    "To Date": "2025-11-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In Monaco baby!!!</font>",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the office</font>",
+    "From Date": "2025-12-08",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the office</font>",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">Working</font>",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -11158,6 +12438,42 @@
     "From Part": "  ",
     "To Date": "2025-11-27",
     "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-03",
+    "From Part": "  ",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-10",
+    "From Part": "  ",
+    "To Date": "2025-12-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
+    "To Date": "2025-12-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-24",
+    "To Part": "AM"
   },
   {
     "User ID": 15,
@@ -11634,7 +12950,7 @@
     "From Date": "2025-11-10",
     "From Part": "  ",
     "To Date": "2025-11-14",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 15,
@@ -11642,6 +12958,15 @@
     "Comment": "",
     "From Date": "2025-11-17",
     "From Part": "  ",
+    "To Date": "2025-11-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "PM",
     "To Date": "2025-11-21",
     "To Part": "  "
   },
@@ -11660,7 +12985,7 @@
     "Comment": "",
     "From Date": "2025-12-01",
     "From Part": "  ",
-    "To Date": "2025-12-02",
+    "To Date": "2025-12-05",
     "To Part": "  "
   },
   {
@@ -12226,7 +13551,72 @@
     "Comment": "",
     "From Date": "2025-11-10",
     "From Part": "  ",
-    "To Date": "2025-11-28",
+    "To Date": "2025-11-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "On Board",
+    "Vessel": "PAO",
+    "Comment": "<font face=\"Times New Roman\">@Soma</font>",
+    "From Date": "2025-11-19",
+    "From Part": "  ",
+    "To Date": "2025-11-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Dry Dock",
+    "Vessel": "GI2",
+    "Comment": "",
+    "From Date": "2025-11-21",
+    "From Part": "  ",
+    "To Date": "2025-12-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-08",
+    "From Part": "  ",
+    "To Date": "2025-12-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-17",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -12656,27 +14046,27 @@
     "User ID": 5,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-11-10",
+    "From Date": "2025-12-09",
     "From Part": "  ",
-    "To Date": "2025-11-14",
+    "To Date": "2025-12-10",
     "To Part": "  "
   },
   {
     "User ID": 5,
-    "Status": "Office MC",
+    "Status": "Tele Work",
     "Comment": "",
-    "From Date": "2025-11-17",
+    "From Date": "2025-12-22",
     "From Part": "  ",
-    "To Date": "2025-11-18",
+    "To Date": "2025-12-23",
     "To Part": "  "
   },
   {
     "User ID": 5,
-    "Status": "Office MC",
+    "Status": "Tele Work",
     "Comment": "",
-    "From Date": "2025-11-20",
+    "From Date": "2025-12-29",
     "From Part": "  ",
-    "To Date": "2025-11-21",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -13126,7 +14516,7 @@
     "Comment": "",
     "From Date": "2025-11-10",
     "From Part": "  ",
-    "To Date": "2025-11-13",
+    "To Date": "2025-11-12",
     "To Part": "  "
   },
   {
@@ -13140,11 +14530,20 @@
   },
   {
     "User ID": 40,
-    "Status": "Office MC",
+    "Status": "Sick",
+    "Comment": "",
+    "From Date": "2025-11-20",
+    "From Part": "  ",
+    "To Date": "2025-11-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 40,
+    "Status": "Sick",
     "Comment": "",
     "From Date": "2025-11-24",
     "From Part": "  ",
-    "To Date": "2025-11-27",
+    "To Date": "2025-11-28",
     "To Part": "  "
   },
   {
@@ -13176,11 +14575,11 @@
   },
   {
     "User ID": 40,
-    "Status": "Office MC",
+    "Status": "Holidays",
     "Comment": "",
     "From Date": "2025-12-22",
     "From Part": "  ",
-    "To Date": "2025-12-24",
+    "To Date": "2025-12-23",
     "To Part": "  "
   },
   {
@@ -13189,7 +14588,7 @@
     "Comment": "",
     "From Date": "2025-12-29",
     "From Part": "  ",
-    "To Date": "2025-12-31",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -13331,9 +14730,54 @@
     "User ID": 48,
     "Status": "Office MC",
     "Comment": "",
+    "From Date": "2025-12-01",
+    "From Part": "  ",
+    "To Date": "2025-12-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
     "From Date": "2025-12-09",
     "From Part": "  ",
     "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-15",
+    "From Part": "  ",
+    "To Date": "2025-12-18",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 48,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-18",
+    "From Part": "PM",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -13864,8 +15308,8 @@
     "Comment": "",
     "From Date": "2025-11-17",
     "From Part": "  ",
-    "To Date": "2025-11-21",
-    "To Part": "  "
+    "To Date": "2025-11-20",
+    "To Part": "AM"
   },
   {
     "User ID": 21,
@@ -13873,7 +15317,70 @@
     "Comment": "",
     "From Date": "2025-11-24",
     "From Part": "  ",
+    "To Date": "2025-11-26",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-11-28",
+    "From Part": "  ",
     "To Date": "2025-11-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-02",
+    "From Part": "PM",
+    "To Date": "2025-12-04",
+    "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-09",
+    "From Part": "  ",
+    "To Date": "2025-12-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-13",
+    "From Part": "  ",
+    "To Date": "2025-12-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
+    "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2025-12-23",
+    "From Part": "PM",
+    "To Date": "2025-12-24",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 21,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   },
   {
@@ -14520,11 +16027,11 @@
   },
   {
     "User ID": 24,
-    "Status": "Tele Work",
+    "Status": "Office MC",
     "Comment": "",
-    "From Date": "2025-11-11",
+    "From Date": "2025-11-10",
     "From Part": "  ",
-    "To Date": "2025-11-12",
+    "To Date": "2025-11-11",
     "To Part": "  "
   },
   {
@@ -14538,29 +16045,21 @@
   },
   {
     "User ID": 24,
-    "Status": "Office MC",
+    "Status": "Dry Dock",
+    "Vessel": "GI2",
     "Comment": "",
-    "From Date": "2025-11-17",
+    "From Date": "2025-11-19",
     "From Part": "  ",
-    "To Date": "2025-11-18",
-    "To Part": "  "
+    "To Date": "2025-11-23",
+    "To Part": "AM"
   },
   {
     "User ID": 24,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2025-11-20",
+    "Status": "Credit Holidays",
+    "Comment": "DD Giovanni@Japan",
+    "From Date": "2025-11-22",
     "From Part": "  ",
-    "To Date": "2025-11-21",
-    "To Part": "  "
-  },
-  {
-    "User ID": 24,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2025-11-25",
-    "From Part": "  ",
-    "To Date": "2025-11-26",
+    "To Date": "2025-11-23",
     "To Part": "  "
   },
   {
@@ -14579,7 +16078,7 @@
     "From Date": "2025-12-01",
     "From Part": "  ",
     "To Date": "2025-12-05",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 24,
@@ -14597,7 +16096,7 @@
     "From Date": "2025-12-11",
     "From Part": "  ",
     "To Date": "2025-12-12",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 24,
@@ -14605,7 +16104,34 @@
     "Comment": "",
     "From Date": "2025-12-15",
     "From Part": "  ",
+    "To Date": "2025-12-16",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2025-12-17",
+    "From Part": "  ",
     "To Date": "2025-12-19",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2025-12-22",
+    "From Part": "  ",
+    "To Date": "2025-12-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2025-12-29",
+    "From Part": "  ",
+    "To Date": "2025-12-30",
     "To Part": "  "
   }
 ]
