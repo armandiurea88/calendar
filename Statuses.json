@@ -1,0 +1,82 @@
+[
+  {
+    "Code": "CRE",
+    "Status Name": "Credit Holidays",
+    "Status Description": "The user has received holiday or time-off credits. This status represents an accrual or credit balance rather than an absence."
+  },
+  {
+    "Code": "DDK",
+    "Status Name": "Dry Dock",
+    "Status Description": "The user is assigned to activities related to a vessel in dry dock, typically involving maintenance, inspections, or refit operations."
+  },
+  {
+    "Code": "EVT",
+    "Status Name": "Event",
+    "Status Description": "This entry represents a company or operational event. It is not related to a specific user’s availability or absence."
+  },
+  {
+    "Code": "HOL",
+    "Status Name": "Holidays",
+    "Status Description": "The user is on approved holiday or vacation and is not expected to work during this period."
+  },
+  {
+    "Code": "HOM",
+    "Status Name": "Tele Work",
+    "Status Description": "The user is working remotely from home while remaining fully available for work duties."
+  },
+  {
+    "Code": "OMC",
+    "Status Name": "Office MC",
+    "Status Description": "The user is working on-site at the Monaco office."
+  },
+  {
+    "Code": "OTR",
+    "Status Name": "Office Trieste",
+    "Status Description": "The user is working on-site at the Trieste office."
+  },
+  {
+    "Code": "OUK",
+    "Status Name": "Office UK",
+    "Status Description": "The user is working on-site at a United Kingdom office location."
+  },
+  {
+    "Code": "OVE",
+    "Status Name": "Office Verona",
+    "Status Description": "The user is working on-site at the Verona office."
+  },
+  {
+    "Code": "OZA",
+    "Status Name": "Office South Africa",
+    "Status Description": "The user is working on-site at the South Africa office."
+  },
+  {
+    "Code": "PTO",
+    "Status Name": "Part Time Off",
+    "Status Description": "The user is partially unavailable due to approved time off for part of the day or period"
+  },
+  {
+    "Code": "SHP",
+    "Status Name": "On Board",
+    "Status Description": "The user is physically on board a vessel and engaged in onboard operations or duties."
+  },
+  {
+    "Code": "SIC",
+    "Status Name": "Sick",
+    "Status Description": "The user is unavailable for work due to illness."
+  },
+  {
+    "Code": "TRA",
+    "Status Name": "Travelling",
+    "Status Description": "The user is travelling for work-related purposes and may have limited availability."
+  },
+  {
+    "Code": "TRN",
+    "Status Name": "Training",
+    "Status Description": "The user is attending a training session or course and may not be available for regular work tasks."
+  },
+  {
+    "Code": "VIS",
+    "Status Name": "Visit",
+    "Status Description": "The user is visiting a site, vessel, client, or office for professional purposes."
+  }
+]
