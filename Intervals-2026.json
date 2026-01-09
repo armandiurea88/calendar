@@ -1,0 +1,308 @@
+[
+  {
+    "User ID": 39,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-05",
+    "From Part": "  ",
+    "To Date": "2026-01-09",
+    "To Part": "  "
+  },
+  {
+    "User ID": 39,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-05-18",
+    "From Part": "  ",
+    "To Date": "2026-05-22",
+    "To Part": "  "
+  },
+  {
+    "User ID": 39,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-06-08",
+    "From Part": "  ",
+    "To Date": "2026-06-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-05",
+    "From Part": "  ",
+    "To Date": "2026-01-09",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-12",
+    "From Part": "  ",
+    "To Date": "2026-01-16",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-28",
+    "From Part": "  ",
+    "To Date": "2026-01-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-16",
+    "From Part": "  ",
+    "To Date": "2026-03-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-05",
+    "From Part": "  ",
+    "To Date": "2026-01-09",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-12",
+    "From Part": "  ",
+    "To Date": "2026-01-16",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-05",
+    "From Part": "  ",
+    "To Date": "2026-01-09",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-12",
+    "From Part": "  ",
+    "To Date": "2026-01-16",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-28",
+    "From Part": "  ",
+    "To Date": "2026-01-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-16",
+    "From Part": "  ",
+    "To Date": "2026-03-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 40,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-05",
+    "From Part": "  ",
+    "To Date": "2026-01-08",
+    "To Part": "  "
+  }
+]
