@@ -30,8 +30,7 @@
     "Comment": "",
     "From Date": "2026-01-12",
     "From Part": "  ",
-    "To Date": "2026-01-16",
-    "To Part": "  "
+    "To Date": "2026-01-12"
   },
   {
     "User ID": 44,
@@ -2805,6 +2804,23 @@
     "Comment": "",
     "From Date": "2026-01-12",
     "From Part": "  ",
+    "To Date": "2026-01-16",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-13",
+    "From Part": "AM",
+    "To Date": "2026-01-13"
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-13",
+    "From Part": "PM",
     "To Date": "2026-01-16",
     "To Part": "  "
   },
