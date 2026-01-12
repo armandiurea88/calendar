@@ -567,6 +567,14 @@
   },
   {
     "User ID": 2,
+    "Status": "Sick",
+    "Comment": "",
+    "From Date": "2026-01-12",
+    "From Part": "  ",
+    "To Date": "2026-01-12"
+  },
+  {
+    "User ID": 2,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-01-19",
@@ -716,20 +724,20 @@
   },
   {
     "User ID": 16,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-01-12",
-    "From Part": "  ",
-    "To Date": "2026-01-16",
-    "To Part": "  "
-  },
-  {
-    "User ID": 16,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-01-12",
     "From Part": "  ",
     "To Date": "2026-01-12"
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-13",
+    "From Part": "  ",
+    "To Date": "2026-01-16",
+    "To Part": "  "
   },
   {
     "User ID": 1003,
