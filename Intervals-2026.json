@@ -1269,20 +1269,20 @@
   },
   {
     "User ID": 9,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-01-09",
-    "From Part": "AM",
-    "To Date": "2026-01-09"
-  },
-  {
-    "User ID": 9,
     "Status": "Tele Work",
     "Comment": "not <font face=\"Times New Roman\">before 16:00</font>",
     "From Date": "2026-01-09",
     "From Part": "PM",
     "To Date": "2026-01-09",
     "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-09",
+    "From Part": "AM",
+    "To Date": "2026-01-09"
   },
   {
     "User ID": 9,
@@ -3032,6 +3032,15 @@
     "From Date": "2026-01-28",
     "From Part": "  ",
     "To Date": "2026-01-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 40,
+    "Status": "Sick",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-04",
     "To Part": "  "
   },
   {
