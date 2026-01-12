@@ -2432,7 +2432,25 @@
     "Comment": "",
     "From Date": "2026-01-12",
     "From Part": "  ",
+    "To Date": "2026-01-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-14",
+    "From Part": "PM",
     "To Date": "2026-01-15",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-14",
+    "From Part": "AM",
+    "To Date": "2026-01-14",
     "To Part": "  "
   },
   {
