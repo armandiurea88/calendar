@@ -566,6 +566,15 @@
   },
   {
     "User ID": 2,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-13",
+    "From Part": "  ",
+    "To Date": "2026-01-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-01-13",
