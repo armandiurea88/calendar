@@ -577,7 +577,7 @@
     "User ID": 2,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2026-01-13",
+    "From Date": "2026-01-15",
     "From Part": "  ",
     "To Date": "2026-01-16",
     "To Part": "  "
@@ -1300,6 +1300,15 @@
     "From Date": "2026-01-14",
     "From Part": "AM",
     "To Date": "2026-01-14"
+  },
+  {
+    "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-23",
+    "To Part": "  "
   },
   {
     "User ID": 34,
