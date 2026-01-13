@@ -1575,6 +1575,30 @@
     "To Part": "  "
   },
   {
+    "User ID": 9,
+    "Status": "Travelling",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "  ",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 9,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-12"
+  },
+  {
+    "User ID": 9,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-13",
+    "From Part": "  ",
+    "To Date": "2026-02-13"
+  },
+  {
     "User ID": 23,
     "Status": "Holidays",
     "Comment": "",
