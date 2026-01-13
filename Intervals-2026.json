@@ -277,6 +277,23 @@
   },
   {
     "User ID": 22,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS-ST</font>",
+    "From Date": "2026-02-11",
+    "From Part": "AM",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 22,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "PM",
+    "To Date": "2026-02-13",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 22,
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-02-11",
