@@ -1879,15 +1879,6 @@
     "User ID": 9,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2026-04-23",
-    "From Part": "  ",
-    "To Date": "2026-04-24",
-    "To Part": "  "
-  },
-  {
-    "User ID": 9,
-    "Status": "Office MC",
-    "Comment": "",
     "From Date": "2026-04-27",
     "From Part": "  ",
     "To Date": "2026-04-28",
@@ -3558,6 +3549,24 @@
     "Comment": "",
     "From Date": "2026-01-13",
     "From Part": "PM",
+    "To Date": "2026-01-16",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-14",
+    "From Part": "PM",
+    "To Date": "2026-01-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-15",
+    "From Part": "  ",
     "To Date": "2026-01-16",
     "To Part": "  "
   },
