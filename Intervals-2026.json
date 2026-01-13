@@ -294,20 +294,20 @@
   },
   {
     "User ID": 22,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-11",
-    "From Part": "  ",
-    "To Date": "2026-02-13",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 22,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-02-13",
     "From Part": "PM",
     "To Date": "2026-02-13"
+  },
+  {
+    "User ID": 22,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
   },
   {
     "User ID": 25,
