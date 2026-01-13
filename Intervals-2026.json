@@ -1220,7 +1220,7 @@
     "Comment": "",
     "From Date": "2026-01-13",
     "From Part": "  ",
-    "To Date": "2026-01-16",
+    "To Date": "2026-01-15",
     "To Part": "  "
   },
   {
@@ -1247,6 +1247,15 @@
     "From Date": "2026-01-26",
     "From Part": "  ",
     "To Date": "2026-01-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Manila - Jakarta</font>",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
     "To Part": "  "
   },
   {
