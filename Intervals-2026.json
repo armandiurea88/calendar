@@ -1544,6 +1544,14 @@
     "User ID": 9,
     "Status": "Holidays",
     "Comment": "",
+    "From Date": "2026-01-23",
+    "From Part": "  ",
+    "To Date": "2026-01-23"
+  },
+  {
+    "User ID": 9,
+    "Status": "Holidays",
+    "Comment": "",
     "From Date": "2026-01-26",
     "From Part": "  ",
     "To Date": "2026-01-26"
