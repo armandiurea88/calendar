@@ -732,9 +732,17 @@
   },
   {
     "User ID": 16,
-    "Status": "Office Trieste",
+    "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-13",
+    "From Part": "  ",
+    "To Date": "2026-01-13"
+  },
+  {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-14",
     "From Part": "  ",
     "To Date": "2026-01-16",
     "To Part": "  "
@@ -1367,16 +1375,15 @@
     "From Date": "2026-01-15",
     "From Part": "  ",
     "To Date": "2026-01-16",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 9,
-    "Status": "Office MC",
+    "Status": "Tele Work",
     "Comment": "",
-    "From Date": "2026-01-15",
-    "From Part": "  ",
-    "To Date": "2026-01-16",
-    "To Part": "AM"
+    "From Date": "2026-01-16",
+    "From Part": "PM",
+    "To Date": "2026-01-16"
   },
   {
     "User ID": 9,
