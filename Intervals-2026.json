@@ -1651,6 +1651,32 @@
     "To Part": "  "
   },
   {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-24",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-25",
+    "From Part": "  ",
+    "To Date": "2026-02-25"
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-26",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
     "User ID": 23,
     "Status": "Holidays",
     "Comment": "",
