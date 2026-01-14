@@ -653,6 +653,15 @@
   },
   {
     "User ID": 2,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-13",
+    "From Part": "  ",
+    "To Date": "2026-01-15",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-01-15",
@@ -2013,18 +2022,18 @@
   },
   {
     "User ID": 9,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-06-03",
-    "From Part": "AM",
-    "To Date": "2026-06-03"
-  },
-  {
-    "User ID": 9,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-06-03",
     "From Part": "PM",
+    "To Date": "2026-06-03"
+  },
+  {
+    "User ID": 9,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-06-03",
+    "From Part": "AM",
     "To Date": "2026-06-03"
   },
   {
@@ -3182,20 +3191,20 @@
   },
   {
     "User ID": 13,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-01-14",
-    "From Part": "PM",
-    "To Date": "2026-01-15",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-14",
     "From Part": "  ",
     "To Date": "2026-01-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-15",
+    "From Part": "  ",
+    "To Date": "2026-01-15",
     "To Part": "  "
   },
   {
