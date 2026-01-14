@@ -3194,7 +3194,7 @@
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-14",
-    "From Part": "AM",
+    "From Part": "  ",
     "To Date": "2026-01-14",
     "To Part": "  "
   },
@@ -3549,8 +3549,8 @@
     "Comment": "",
     "From Date": "2026-01-13",
     "From Part": "PM",
-    "To Date": "2026-01-16",
-    "To Part": "  "
+    "To Date": "2026-01-14",
+    "To Part": "AM"
   },
   {
     "User ID": 15,
