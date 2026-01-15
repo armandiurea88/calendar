@@ -345,12 +345,37 @@
   },
   {
     "User ID": 25,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Visit Jalma Topic at La Havre</font>",
+    "From Date": "2026-01-18",
+    "From Part": "  ",
+    "To Date": "2026-01-18"
+  },
+  {
+    "User ID": 25,
+    "Status": "On Board",
+    "Comment": "",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-01-19",
     "From Part": "  ",
     "To Date": "2026-01-23",
     "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Traveling to Trieste</font>",
+    "From Date": "2026-01-21",
+    "From Part": "  ",
+    "To Date": "2026-01-21"
   },
   {
     "User ID": 25,
@@ -647,24 +672,6 @@
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-13",
-    "From Part": "  ",
-    "To Date": "2026-01-15",
-    "To Part": "  "
-  },
-  {
-    "User ID": 2,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-01-13",
-    "From Part": "  ",
-    "To Date": "2026-01-16",
-    "To Part": "  "
-  },
-  {
-    "User ID": 2,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-01-16",
     "From Part": "  ",
     "To Date": "2026-01-16",
     "To Part": "  "
