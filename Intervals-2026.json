@@ -181,12 +181,19 @@
   },
   {
     "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-12"
+  },
+  {
+    "User ID": 1,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2026-02-09",
+    "From Date": "2026-02-13",
     "From Part": "  ",
-    "To Date": "2026-02-13",
-    "To Part": "  "
+    "To Date": "2026-02-13"
   },
   {
     "User ID": 1,
