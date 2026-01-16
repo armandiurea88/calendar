@@ -370,23 +370,6 @@
   },
   {
     "User ID": 25,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Traveling to Trieste</font>",
-    "From Date": "2026-01-21",
-    "From Part": "  ",
-    "To Date": "2026-01-21"
-  },
-  {
-    "User ID": 25,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-01-22",
-    "From Part": "  ",
-    "To Date": "2026-01-23",
-    "To Part": "  "
-  },
-  {
-    "User ID": 25,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-01-26",
@@ -543,6 +526,15 @@
     "From Date": "2026-03-16",
     "From Part": "  ",
     "To Date": "2026-03-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-23",
+    "From Part": "  ",
+    "To Date": "2026-03-27",
     "To Part": "  "
   },
   {
