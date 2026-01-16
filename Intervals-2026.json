@@ -818,6 +818,15 @@
   },
   {
     "User ID": 39,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 39,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-05-18",
