@@ -1088,6 +1088,23 @@
     "To Part": "  "
   },
   {
+    "User ID": 39,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-06-15",
+    "From Part": "  ",
+    "To Date": "2026-06-19",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 39,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-06-19",
+    "From Part": "PM",
+    "To Date": "2026-06-19"
+  },
+  {
     "User ID": 16,
     "Status": "Office Trieste",
     "Comment": "",
