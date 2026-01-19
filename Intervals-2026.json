@@ -4381,9 +4381,17 @@
   },
   {
     "User ID": 21,
-    "Status": "Office Trieste",
+    "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-19"
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-20",
     "From Part": "  ",
     "To Date": "2026-01-23",
     "To Part": "  "
