@@ -4312,6 +4312,14 @@
   },
   {
     "User ID": 48,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TST - MC</font>",
+    "From Date": "2026-02-11",
+    "From Part": "  ",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 48,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-11",
