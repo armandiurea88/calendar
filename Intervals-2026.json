@@ -4329,21 +4329,11 @@
   },
   {
     "User ID": 48,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-02-12",
-    "From Part": "PM",
-    "To Date": "2026-02-13",
-    "To Part": "  "
-  },
-  {
-    "User ID": 48,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-12",
-    "From Part": "  ",
-    "To Date": "2026-02-12",
-    "To Part": "AM"
+    "From Part": "AM",
+    "To Date": "2026-02-12"
   },
   {
     "User ID": 48,
@@ -4352,6 +4342,15 @@
     "From Date": "2026-02-16",
     "From Part": "  ",
     "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
     "To Part": "  "
   },
   {
