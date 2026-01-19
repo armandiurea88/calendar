@@ -1662,7 +1662,7 @@
     "Comment": "",
     "From Date": "2026-01-19",
     "From Part": "  ",
-    "To Date": "2026-01-23",
+    "To Date": "2026-01-22",
     "To Part": "  "
   },
   {
@@ -1689,6 +1689,15 @@
     "From Date": "2026-02-02",
     "From Part": "  ",
     "To Date": "2026-02-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
     "To Part": "  "
   },
   {
