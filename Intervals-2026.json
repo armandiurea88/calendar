@@ -879,23 +879,6 @@
     "Comment": "",
     "From Date": "2026-01-26",
     "From Part": "  ",
-    "To Date": "2026-01-26"
-  },
-  {
-    "User ID": 39,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-01-26",
-    "From Part": "  ",
-    "To Date": "2026-01-30",
-    "To Part": "  "
-  },
-  {
-    "User ID": 39,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-01-28",
-    "From Part": "  ",
     "To Date": "2026-01-30",
     "To Part": "  "
   },
@@ -922,6 +905,15 @@
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 39,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-02-19",
     "From Part": "  ",
     "To Date": "2026-02-20",
     "To Part": "  "
