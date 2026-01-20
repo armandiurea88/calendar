@@ -1981,6 +1981,15 @@
     "Comment": "",
     "From Date": "2026-01-19",
     "From Part": "  ",
+    "To Date": "2026-01-22",
+    "To Part": "  "
+  },
+  {
+    "User ID": 9,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
     "To Date": "2026-01-20",
     "To Part": "  "
   },
@@ -4070,7 +4079,7 @@
     "Comment": "",
     "From Date": "2026-01-19",
     "From Part": "  ",
-    "To Date": "2026-01-23",
+    "To Date": "2026-01-20",
     "To Part": "  "
   },
   {
@@ -4080,6 +4089,15 @@
     "From Date": "2026-01-21",
     "From Part": "AM",
     "To Date": "2026-01-21"
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-21",
+    "From Part": "PM",
+    "To Date": "2026-01-23",
+    "To Part": "  "
   },
   {
     "User ID": 15,
