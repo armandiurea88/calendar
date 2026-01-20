@@ -59,6 +59,50 @@
     "To Date": "2026-01-26"
   },
   {
+    "User ID": 44,
+    "Status": "Travelling",
+    "Comment": "<span>Norway/ Visit to customers and suppliers</span>",
+    "From Date": "2026-01-27",
+    "From Part": "  ",
+    "To Date": "2026-01-29",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2026-01-30",
+    "From Part": "  ",
+    "To Date": "2026-01-30"
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
@@ -4028,6 +4072,14 @@
     "From Part": "  ",
     "To Date": "2026-01-23",
     "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-21",
+    "From Part": "AM",
+    "To Date": "2026-01-21"
   },
   {
     "User ID": 15,
