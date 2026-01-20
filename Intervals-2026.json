@@ -51,6 +51,14 @@
     "To Part": "  "
   },
   {
+    "User ID": 44,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Norway/ Visit to customers and suppliers</font>",
+    "From Date": "2026-01-26",
+    "From Part": "  ",
+    "To Date": "2026-01-26"
+  },
+  {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
