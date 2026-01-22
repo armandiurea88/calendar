@@ -3514,7 +3514,7 @@
   },
   {
     "User ID": 10,
-    "Status": "Tele Work",
+    "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-01-26",
     "From Part": "  ",
@@ -3522,28 +3522,20 @@
   },
   {
     "User ID": 10,
-    "Status": "Tele Work",
+    "Status": "Travelling",
+    "Comment": "Traveling to <font face=\"Times New Roman\">MC</font><span class=\"fa fa-fw fa-car text-success\" aria-hidden=\"true\"></span>&#160;",
+    "From Date": "2026-01-27",
+    "From Part": "  ",
+    "To Date": "2026-01-27"
+  },
+  {
+    "User ID": 10,
+    "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-01-28",
     "From Part": "  ",
     "To Date": "2026-01-30",
     "To Part": "  "
-  },
-  {
-    "User ID": 10,
-    "Status": "Travelling",
-    "Comment": "TRAVE<font face=\"Times New Roman\">LLING TO MC</font>",
-    "From Date": "2026-01-31",
-    "From Part": "  ",
-    "To Date": "2026-01-31"
-  },
-  {
-    "User ID": 10,
-    "Status": "Travelling",
-    "Comment": "TRAVELLING TO MC",
-    "From Date": "2026-02-01",
-    "From Part": "  ",
-    "To Date": "2026-02-01"
   },
   {
     "User ID": 10,
@@ -4523,6 +4515,14 @@
     "From Part": "  ",
     "To Date": "2026-01-23",
     "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-01-23",
+    "From Part": "PM",
+    "To Date": "2026-01-23"
   },
   {
     "User ID": 21,
