@@ -1986,32 +1986,6 @@
   },
   {
     "User ID": 9,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-01-19",
-    "From Part": "  ",
-    "To Date": "2026-01-20",
-    "To Part": "  "
-  },
-  {
-    "User ID": 9,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-01-21",
-    "From Part": "  ",
-    "To Date": "2026-01-21"
-  },
-  {
-    "User ID": 9,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-01-22",
-    "From Part": "  ",
-    "To Date": "2026-01-22",
-    "To Part": "  "
-  },
-  {
-    "User ID": 9,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-01-23",
@@ -3529,6 +3503,14 @@
     "From Part": "  ",
     "To Date": "2026-01-23",
     "To Part": "  "
+  },
+  {
+    "User ID": 10,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Traveling to Trieste Office</font><span class=\"fa fa-fw fa-car text-success\" aria-hidden=\"true\"></span>",
+    "From Date": "2026-01-25",
+    "From Part": "  ",
+    "To Date": "2026-01-25"
   },
   {
     "User ID": 10,
