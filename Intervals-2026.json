@@ -4101,6 +4101,48 @@
     "To Part": "  "
   },
   {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-13",
+    "From Part": "PM",
+    "To Date": "2026-02-13"
+  },
+  {
+    "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-13",
+    "From Part": "AM",
+    "To Date": "2026-02-13"
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-16"
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-17",
+    "From Part": "PM",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
     "User ID": 33,
     "Status": "Office Trieste",
     "Comment": "",
@@ -4158,7 +4200,7 @@
     "From Date": "2026-01-26",
     "From Part": "  ",
     "To Date": "2026-01-30",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 33,
