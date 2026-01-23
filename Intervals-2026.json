@@ -4740,6 +4740,14 @@
   },
   {
     "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-26",
+    "From Part": "  ",
+    "To Date": "2026-01-26"
+  },
+  {
+    "User ID": 24,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-01-28",
