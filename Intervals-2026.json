@@ -4753,5 +4753,21 @@
     "From Date": "2026-01-28",
     "From Part": "  ",
     "To Date": "2026-01-28"
+  },
+  {
+    "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-29",
+    "From Part": "  ",
+    "To Date": "2026-01-29"
+  },
+  {
+    "User ID": 24,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-30",
+    "From Part": "  ",
+    "To Date": "2026-01-30"
   }
 ]
