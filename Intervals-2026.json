@@ -4829,5 +4829,31 @@
     "From Date": "2026-02-13",
     "From Part": "  ",
     "To Date": "2026-02-13"
+  },
+  {
+    "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-17",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-18",
+    "From Part": "  ",
+    "To Date": "2026-02-18"
+  },
+  {
+    "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-19",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
   }
 ]
