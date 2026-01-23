@@ -4796,5 +4796,30 @@
     "From Part": "  ",
     "To Date": "2026-02-06",
     "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Trieste &gt; Nice</font>",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-12"
+  },
+  {
+    "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-13",
+    "From Part": "  ",
+    "To Date": "2026-02-13"
   }
 ]
