@@ -4799,6 +4799,14 @@
   },
   {
     "User ID": 24,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Nice &gt; Trieste</font>",
+    "From Date": "2026-02-07",
+    "From Part": "  ",
+    "To Date": "2026-02-07"
+  },
+  {
+    "User ID": 24,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-09",
