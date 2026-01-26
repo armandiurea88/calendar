@@ -1888,15 +1888,15 @@
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-28",
-    "From Part": "AM",
+    "From Part": "  ",
     "To Date": "2026-01-28"
   },
   {
     "User ID": 34,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2026-01-28",
-    "From Part": "PM",
+    "From Date": "2026-01-29",
+    "From Part": "  ",
     "To Date": "2026-01-30",
     "To Part": "  "
   },
