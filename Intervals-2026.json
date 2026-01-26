@@ -2740,6 +2740,32 @@
   },
   {
     "User ID": 23,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Travel on JALMA TOPIC</font>",
+    "From Date": "2026-01-27",
+    "From Part": "AM",
+    "To Date": "2026-01-27"
+  },
+  {
+    "User ID": 23,
+    "Status": "On Board",
+    "Vessel": "JAL",
+    "Comment": "<font face=\"Times New Roman\">JALMA TOPIC</font>",
+    "From Date": "2026-01-27",
+    "From Part": "PM",
+    "To Date": "2026-01-27"
+  },
+  {
+    "User ID": 23,
+    "Status": "On Board",
+    "Vessel": "JAL",
+    "Comment": "",
+    "From Date": "2026-01-28",
+    "From Part": "  ",
+    "To Date": "2026-01-28"
+  },
+  {
+    "User ID": 23,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-01-28",
