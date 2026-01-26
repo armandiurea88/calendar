@@ -4418,6 +4418,31 @@
   },
   {
     "User ID": 33,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS &gt; MC</font>",
+    "From Date": "2026-02-01",
+    "From Part": "  ",
+    "To Date": "2026-02-01"
+  },
+  {
+    "User ID": 33,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">MC &gt; TS</font>",
+    "From Date": "2026-02-07",
+    "From Part": "  ",
+    "To Date": "2026-02-07"
+  },
+  {
+    "User ID": 33,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-09",
