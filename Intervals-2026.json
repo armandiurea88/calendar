@@ -805,15 +805,6 @@
     "Status": "Office MC",
     "Comment": "<font face=\"Times New Roman\">13:00 - 15:00 hosto</font>",
     "From Date": "2026-01-26",
-    "From Part": "  ",
-    "To Date": "2026-01-26",
-    "To Part": "  "
-  },
-  {
-    "User ID": 2,
-    "Status": "Office MC",
-    "Comment": "<font face=\"Times New Roman\">13:00 - 15:00 hosto</font>",
-    "From Date": "2026-01-26",
     "From Part": "AM",
     "To Date": "2026-01-26"
   },
@@ -3485,6 +3476,14 @@
     "From Part": "  ",
     "To Date": "2026-05-13",
     "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-05-15",
+    "From Part": "  ",
+    "To Date": "2026-05-15"
   },
   {
     "User ID": 37,
