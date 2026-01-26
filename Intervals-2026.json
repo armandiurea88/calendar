@@ -1912,6 +1912,22 @@
     "Comment": "",
     "From Date": "2026-01-29",
     "From Part": "  ",
+    "To Date": "2026-01-29"
+  },
+  {
+    "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-30",
+    "From Part": "PM",
+    "To Date": "2026-01-30"
+  },
+  {
+    "User ID": 34,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-01-30",
+    "From Part": "AM",
     "To Date": "2026-01-30",
     "To Part": "  "
   },
