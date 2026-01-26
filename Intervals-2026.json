@@ -3158,6 +3158,15 @@
   },
   {
     "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-05-11",
+    "From Part": "  ",
+    "To Date": "2026-05-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-05-11",
@@ -3168,6 +3177,14 @@
   {
     "User ID": 38,
     "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-05-15",
+    "From Part": "  ",
+    "To Date": "2026-05-15"
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-05-15",
     "From Part": "  ",
