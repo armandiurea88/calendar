@@ -1259,6 +1259,14 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">FEDEM AG 10:00-12:30</font>",
+    "From Date": "2026-03-26",
+    "From Part": "  ",
+    "To Date": "2026-03-26"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Board Meeting&#160;</font>",
     "From Date": "2026-03-27",
     "From Part": "  ",
@@ -3199,23 +3207,6 @@
     "From Part": "  ",
     "To Date": "2026-06-03",
     "To Part": "  "
-  },
-  {
-    "User ID": 38,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-06-01",
-    "From Part": "  ",
-    "To Date": "2026-06-03",
-    "To Part": "  "
-  },
-  {
-    "User ID": 38,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-06-05",
-    "From Part": "  ",
-    "To Date": "2026-06-05"
   },
   {
     "User ID": 38,
