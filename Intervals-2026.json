@@ -5289,6 +5289,23 @@
     "User ID": 21,
     "Status": "Office Trieste",
     "Comment": "",
+    "From Date": "2026-01-29",
+    "From Part": "PM",
+    "To Date": "2026-01-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 21,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-29",
+    "From Part": "AM",
+    "To Date": "2026-01-29"
+  },
+  {
+    "User ID": 21,
+    "Status": "Office Trieste",
+    "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "  ",
     "To Date": "2026-02-06",
