@@ -2991,14 +2991,6 @@
   },
   {
     "User ID": 4,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-05-15",
-    "From Part": "  ",
-    "To Date": "2026-05-15"
-  },
-  {
-    "User ID": 4,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-05-15",
@@ -3031,6 +3023,23 @@
     "From Part": "  ",
     "To Date": "2026-06-03",
     "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-06-01",
+    "From Part": "  ",
+    "To Date": "2026-06-03",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 4,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-06-03",
+    "From Part": "PM",
+    "To Date": "2026-06-03"
   },
   {
     "User ID": 4,
