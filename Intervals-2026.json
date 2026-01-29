@@ -1372,6 +1372,14 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">NO BOOKING HOTEL - ROLEX MASTERS MC + BIRTHDAY JULIE</font>",
+    "From Date": "2026-04-11",
+    "From Part": "  ",
+    "To Date": "2026-04-11"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<span>ROLEX MASTERS MC</span>",
     "From Date": "2026-04-12",
     "From Part": "  ",
