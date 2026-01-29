@@ -1269,14 +1269,6 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "",
-    "From Date": "2026-02-01",
-    "From Part": "  ",
-    "To Date": "2026-02-01"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Historic Rallye MC</font>",
     "From Date": "2026-02-01",
     "From Part": "  ",
@@ -1341,6 +1333,14 @@
     "From Date": "2026-03-27",
     "From Part": "  ",
     "To Date": "2026-03-27"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">BIRTHDAY LYNDA</font>",
+    "From Date": "2026-03-28",
+    "From Part": "  ",
+    "To Date": "2026-03-28"
   },
   {
     "User ID": 1003,
