@@ -422,15 +422,6 @@
   },
   {
     "User ID": 25,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-02-02",
-    "From Part": "  ",
-    "To Date": "2026-02-06",
-    "To Part": "  "
-  },
-  {
-    "User ID": 25,
     "Status": "Travelling",
     "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
     "From Date": "2026-02-02",
@@ -453,6 +444,15 @@
     "From Date": "2026-02-05",
     "From Part": "PM",
     "To Date": "2026-02-05"
+  },
+  {
+    "User ID": 25,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-06",
+    "From Part": "  ",
+    "To Date": "2026-02-06",
+    "To Part": "  "
   },
   {
     "User ID": 25,
@@ -1323,6 +1323,15 @@
     "From Date": "2026-04-06",
     "From Part": "  ",
     "To Date": "2026-04-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Historic Grand-Prix&#160;</font>",
+    "From Date": "2026-04-24",
+    "From Part": "  ",
+    "To Date": "2026-04-26",
     "To Part": "  "
   },
   {
