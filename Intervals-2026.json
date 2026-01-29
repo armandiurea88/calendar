@@ -1548,10 +1548,27 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">BIRTHDAY BENO&#206;T</font>",
+    "From Date": "2026-10-05",
+    "From Part": "  ",
+    "To Date": "2026-10-05"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">BENOIT</font>",
     "From Date": "2026-10-05",
     "From Part": "  ",
     "To Date": "2026-10-05"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - ASSISES SECU MC</span>",
+    "From Date": "2026-10-07",
+    "From Part": "  ",
+    "To Date": "2026-10-09",
+    "To Part": "  "
   },
   {
     "User ID": 1003,
