@@ -1286,14 +1286,6 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "",
-    "From Date": "2026-02-02",
-    "From Part": "  ",
-    "To Date": "2026-02-02"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Annual Seminar in Trieste</font>",
     "From Date": "2026-02-09",
     "From Part": "  ",
@@ -1307,6 +1299,15 @@
     "From Date": "2026-02-16",
     "From Part": "  ",
     "To Date": "2026-02-16"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">NO BOOKING HOTEL - ECOMMERCE</font>",
+    "From Date": "2026-03-10",
+    "From Part": "  ",
+    "To Date": "2026-03-11",
+    "To Part": "  "
   },
   {
     "User ID": 1003,
