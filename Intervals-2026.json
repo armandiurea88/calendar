@@ -1506,6 +1506,15 @@
     "User ID": 1003,
     "Status": "Event",
     "Comment": "<span>NO BOOKING HOTEL - RVS MC</span>",
+    "From Date": "2026-09-06",
+    "From Part": "  ",
+    "To Date": "2026-09-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - RVS MC</span>",
     "From Date": "2026-09-07",
     "From Part": "  ",
     "To Date": "2026-09-09",
@@ -1514,10 +1523,18 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "<span>BIRTHDAY : PERO</span>",
+    "Comment": "<span>NO BOOKING HOTEL - RVS MC + BIRTHDAY PERO</span>",
     "From Date": "2026-09-08",
     "From Part": "  ",
     "To Date": "2026-09-08"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - RVS MC</span>",
+    "From Date": "2026-09-09",
+    "From Part": "  ",
+    "To Date": "2026-09-09"
   },
   {
     "User ID": 1003,
