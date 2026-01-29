@@ -1235,6 +1235,15 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Rallye Automobil MC</font>",
+    "From Date": "2026-01-19",
+    "From Part": "  ",
+    "To Date": "2026-01-25",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "  ",
@@ -4639,9 +4648,27 @@
     "User ID": 28,
     "Status": "Holidays",
     "Comment": "",
+    "From Date": "2026-08-10",
+    "From Part": "  ",
+    "To Date": "2026-08-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Holidays",
+    "Comment": "",
     "From Date": "2026-08-17",
     "From Part": "  ",
     "To Date": "2026-08-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-08-24",
+    "From Part": "  ",
+    "To Date": "2026-08-28",
     "To Part": "  "
   },
   {
