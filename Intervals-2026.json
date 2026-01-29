@@ -1270,6 +1270,23 @@
     "User ID": 1003,
     "Status": "Event",
     "Comment": "",
+    "From Date": "2026-02-01",
+    "From Part": "  ",
+    "To Date": "2026-02-01"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Historic Rallye MC</font>",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "  ",
     "To Date": "2026-02-02"
