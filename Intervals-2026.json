@@ -1539,6 +1539,15 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - LUXEPACK MC</span>",
+    "From Date": "2026-09-29",
+    "From Part": "  ",
+    "To Date": "2026-09-30",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">BENOIT</font>",
     "From Date": "2026-10-05",
     "From Part": "  ",
