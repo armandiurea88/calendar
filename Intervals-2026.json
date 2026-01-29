@@ -4495,6 +4495,39 @@
     "To Date": "2026-02-27"
   },
   {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-02"
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-03",
+    "From Part": "  ",
+    "To Date": "2026-03-03"
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-04",
+    "From Part": "  ",
+    "To Date": "2026-03-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-06",
+    "From Part": "  ",
+    "To Date": "2026-03-06"
+  },
+  {
     "User ID": 15,
     "Status": "Office Trieste",
     "Comment": "",
