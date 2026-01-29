@@ -1337,14 +1337,6 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">Board Meeting +&#160;</font><span>NO BOOKING HOTEL - ANTI AGING MC</span>",
-    "From Date": "2026-03-27",
-    "From Part": "  ",
-    "To Date": "2026-03-27"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">-Board Meeting</font><div><font face=\"Times New Roman\">- NO BOOKING HOTEL - ANTI AGING MC</font></div><div><font face=\"Times New Roman\">BIRTHDAY : FRANCO</font></div>",
     "From Date": "2026-03-27",
     "From Part": "  ",
@@ -3681,6 +3673,15 @@
     "From Date": "2026-08-24",
     "From Part": "  ",
     "To Date": "2026-08-28",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-08-31",
+    "From Part": "  ",
+    "To Date": "2026-09-04",
     "To Part": "  "
   },
   {
