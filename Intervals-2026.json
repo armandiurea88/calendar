@@ -6068,6 +6068,23 @@
   },
   {
     "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-01-29",
+    "From Part": "  ",
+    "To Date": "2026-01-30",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 24,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-30",
+    "From Part": "PM",
+    "To Date": "2026-01-30"
+  },
+  {
+    "User ID": 24,
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-01-30",
