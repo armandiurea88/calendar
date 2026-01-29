@@ -1328,6 +1328,15 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<span>ROLEX MASTERS MC</span>",
+    "From Date": "2026-04-04",
+    "From Part": "  ",
+    "To Date": "2026-04-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Historic Grand-Prix&#160;</font>",
     "From Date": "2026-04-24",
     "From Part": "  ",
