@@ -2183,6 +2183,32 @@
   },
   {
     "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "AM",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 34,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "PM",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 34,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-02-23",
