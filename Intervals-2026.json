@@ -1320,6 +1320,14 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Fedem AG 10:00-12:30 +&#160;</font><span>NO BOOKING HOTEL - ANTI AGING MC</span>",
+    "From Date": "2026-03-26",
+    "From Part": "  ",
+    "To Date": "2026-03-26"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "",
     "From Date": "2026-03-26",
     "From Part": "PM",
@@ -1332,22 +1340,6 @@
     "From Date": "2026-03-26",
     "From Part": "AM",
     "To Date": "2026-03-26"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">FEDEM AG 10:00-12:30</font>",
-    "From Date": "2026-03-26",
-    "From Part": "  ",
-    "To Date": "2026-03-26"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">Board Meeting&#160;</font>",
-    "From Date": "2026-03-27",
-    "From Part": "  ",
-    "To Date": "2026-03-27"
   },
   {
     "User ID": 1003,
