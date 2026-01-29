@@ -1315,32 +1315,8 @@
     "Comment": "<span>NO BOOKING HOTEL - ANTI AGING MC</span>",
     "From Date": "2026-03-25",
     "From Part": "  ",
-    "To Date": "2026-03-25"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "<span>NO BOOKING HOTEL - ANTI AGING MC</span>",
-    "From Date": "2026-03-25",
-    "From Part": "  ",
     "To Date": "2026-03-26",
     "To Part": "  "
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">Fedem AG 10:00-12:30 +&#160;</font><span>NO BOOKING HOTEL - ANTI AGING MC</span>",
-    "From Date": "2026-03-26",
-    "From Part": "  ",
-    "To Date": "2026-03-26"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "",
-    "From Date": "2026-03-26",
-    "From Part": "PM",
-    "To Date": "2026-03-26"
   },
   {
     "User ID": 1003,
@@ -1392,6 +1368,15 @@
     "From Date": "2026-04-12",
     "From Part": "  ",
     "To Date": "2026-04-12"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - HISTORIC GRAND-PRIX MC</span>",
+    "From Date": "2026-04-24",
+    "From Part": "  ",
+    "To Date": "2026-04-26",
+    "To Part": "  "
   },
   {
     "User ID": 1003,
