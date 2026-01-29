@@ -1320,6 +1320,15 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - ANTI AGING MC</span>",
+    "From Date": "2026-03-25",
+    "From Part": "  ",
+    "To Date": "2026-03-26",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Fedem AG 10:00-12:30 +&#160;</font><span>NO BOOKING HOTEL - ANTI AGING MC</span>",
     "From Date": "2026-03-26",
     "From Part": "  ",
