@@ -1399,19 +1399,18 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">E-Prix MC</font>",
-    "From Date": "2026-05-16",
-    "From Part": "  ",
-    "To Date": "2026-05-17",
-    "To Part": "  "
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
     "Comment": "<span>BIRTHDAY : CHRISTINE</span>",
     "From Date": "2026-05-22",
     "From Part": "  ",
     "To Date": "2026-05-22"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<span>NO BOOKING HOTEL - FORMULA 1 GRAND-PRIX MC</span>",
+    "From Date": "2026-06-03",
+    "From Part": "  ",
+    "To Date": "2026-06-03"
   },
   {
     "User ID": 1003,
