@@ -4528,6 +4528,39 @@
     "To Date": "2026-03-06"
   },
   {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-09"
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-10",
+    "From Part": "  ",
+    "To Date": "2026-03-10"
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-11",
+    "From Part": "  ",
+    "To Date": "2026-03-12",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-13",
+    "From Part": "  ",
+    "To Date": "2026-03-13"
+  },
+  {
     "User ID": 15,
     "Status": "Office Trieste",
     "Comment": "",
