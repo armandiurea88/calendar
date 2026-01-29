@@ -1278,6 +1278,14 @@
     "User ID": 1003,
     "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Historic Rallye MC</font>",
+    "From Date": "2026-02-01",
+    "From Part": "  ",
+    "To Date": "2026-02-01"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Historic Rallye MC</font>",
     "From Date": "2026-02-02",
     "From Part": "  ",
     "To Date": "2026-02-07",
@@ -1549,14 +1557,6 @@
     "User ID": 1003,
     "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">BIRTHDAY BENO&#206;T</font>",
-    "From Date": "2026-10-05",
-    "From Part": "  ",
-    "To Date": "2026-10-05"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">BENOIT</font>",
     "From Date": "2026-10-05",
     "From Part": "  ",
     "To Date": "2026-10-05"
