@@ -1303,6 +1303,14 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">BIRTHDAY : MIKE</font>",
+    "From Date": "2026-03-07",
+    "From Part": "  ",
+    "To Date": "2026-03-07"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">NO BOOKING HOTEL - ECOMMERCE</font>",
     "From Date": "2026-03-10",
     "From Part": "  ",
@@ -1573,14 +1581,6 @@
     "User ID": 1003,
     "Status": "Event",
     "Comment": "<span>BIRTHDAY : BENO&#206;T</span>",
-    "From Date": "2026-10-05",
-    "From Part": "  ",
-    "To Date": "2026-10-05"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">BIRTHDAY BENO&#206;T</font>",
     "From Date": "2026-10-05",
     "From Part": "  ",
     "To Date": "2026-10-05"
