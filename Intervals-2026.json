@@ -1337,14 +1337,6 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "<font face=\"Times New Roman\">BIRTHDAY LYNDA</font>",
-    "From Date": "2026-03-28",
-    "From Part": "  ",
-    "To Date": "2026-03-28"
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">BIRTHDAY : LYNDA</font>",
     "From Date": "2026-03-28",
     "From Part": "  ",
@@ -1376,6 +1368,14 @@
     "From Part": "  ",
     "To Date": "2026-04-10",
     "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">NO BOOKING HOTEL - ROLEX MASTERS MC +&#160;</font><span>BIRTHDAY : JULIE</span>",
+    "From Date": "2026-04-11",
+    "From Part": "  ",
+    "To Date": "2026-04-11"
   },
   {
     "User ID": 1003,
