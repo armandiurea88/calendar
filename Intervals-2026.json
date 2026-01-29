@@ -1303,15 +1303,6 @@
   {
     "User ID": 1003,
     "Status": "Event",
-    "Comment": "First aid trainning - Croix rouge",
-    "From Date": "2026-04-09",
-    "From Part": "  ",
-    "To Date": "2026-04-10",
-    "To Part": "  "
-  },
-  {
-    "User ID": 1003,
-    "Status": "Event",
     "Comment": "<span>BIRTHDAY : CHRISTINE</span>",
     "From Date": "2026-05-22",
     "From Part": "  ",
@@ -3289,31 +3280,6 @@
     "From Part": "  ",
     "To Date": "2026-04-03",
     "To Part": "  "
-  },
-  {
-    "User ID": 38,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-04-07",
-    "From Part": "  ",
-    "To Date": "2026-04-08",
-    "To Part": "  "
-  },
-  {
-    "User ID": 38,
-    "Status": "Training",
-    "Comment": "<font face=\"Times New Roman\">Formation Croix rouge</font>",
-    "From Date": "2026-04-09",
-    "From Part": "  ",
-    "To Date": "2026-04-09"
-  },
-  {
-    "User ID": 38,
-    "Status": "Training",
-    "Comment": "<span>Formation Croix rouge</span>",
-    "From Date": "2026-04-10",
-    "From Part": "  ",
-    "To Date": "2026-04-10"
   },
   {
     "User ID": 38,
