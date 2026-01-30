@@ -422,20 +422,20 @@
   },
   {
     "User ID": 25,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
+    "From Date": "2026-02-02",
+    "From Part": "AM",
+    "To Date": "2026-02-02"
+  },
+  {
+    "User ID": 25,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "PM",
     "To Date": "2026-02-05",
     "To Part": "AM"
-  },
-  {
-    "User ID": 25,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
-    "From Date": "2026-02-02",
-    "From Part": "AM",
-    "To Date": "2026-02-02"
   },
   {
     "User ID": 25,
@@ -1971,19 +1971,27 @@
   {
     "User ID": 46,
     "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Monaco</font>",
+    "Comment": "<font face=\"Times New Roman\">Trieste-Monaco</font>",
     "From Date": "2026-02-02",
-    "From Part": "  ",
+    "From Part": "AM",
     "To Date": "2026-02-02"
   },
   {
     "User ID": 46,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Manila - Jakarta</font>",
-    "From Date": "2026-02-03",
-    "From Part": "  ",
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "PM",
     "To Date": "2026-02-05",
-    "To Part": "  "
+    "To Part": "AM"
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Monaco-Trieste</font>",
+    "From Date": "2026-02-05",
+    "From Part": "PM",
+    "To Date": "2026-02-05"
   },
   {
     "User ID": 46,
