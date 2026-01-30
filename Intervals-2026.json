@@ -3157,6 +3157,15 @@
   },
   {
     "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-02-13",
@@ -6064,16 +6073,8 @@
     "Comment": "",
     "From Date": "2026-01-29",
     "From Part": "  ",
-    "To Date": "2026-01-30",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 24,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-01-30",
-    "From Part": "PM",
-    "To Date": "2026-01-30"
+    "To Date": "2026-01-29",
+    "To Part": "  "
   },
   {
     "User ID": 24,
