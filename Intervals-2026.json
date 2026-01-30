@@ -3153,24 +3153,6 @@
     "From Date": "2026-02-09",
     "From Part": "  ",
     "To Date": "2026-02-13",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 4,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-09",
-    "From Part": "  ",
-    "To Date": "2026-02-13",
-    "To Part": "  "
-  },
-  {
-    "User ID": 4,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-02-13",
-    "From Part": "PM",
-    "To Date": "2026-02-13",
     "To Part": "  "
   },
   {
@@ -3190,6 +3172,14 @@
     "From Part": "  ",
     "To Date": "2026-02-27",
     "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-02-27",
+    "From Part": "  ",
+    "To Date": "2026-02-27"
   },
   {
     "User ID": 4,
