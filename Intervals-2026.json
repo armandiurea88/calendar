@@ -5290,6 +5290,22 @@
     "User ID": 15,
     "Status": "Office Trieste",
     "Comment": "",
+    "From Date": "2026-01-31",
+    "From Part": "PM",
+    "To Date": "2026-01-31"
+  },
+  {
+    "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-01",
+    "From Part": "  ",
+    "To Date": "2026-02-01"
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "  ",
     "To Date": "2026-02-06",
