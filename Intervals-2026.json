@@ -5280,6 +5280,14 @@
   },
   {
     "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-01-31",
+    "From Part": "AM",
+    "To Date": "2026-01-31"
+  },
+  {
+    "User ID": 15,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-02",
