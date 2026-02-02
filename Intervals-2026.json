@@ -3163,6 +3163,40 @@
     "To Part": "  "
   },
   {
+    "User ID": 23,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Travelling to Trieste</font>",
+    "From Date": "2026-02-08",
+    "From Part": "  ",
+    "To Date": "2026-02-08"
+  },
+  {
+    "User ID": 23,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 23,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Travelling to Monaco</font>",
+    "From Date": "2026-02-11",
+    "From Part": "AM",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 23,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "PM",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
     "User ID": 4,
     "Status": "Holidays",
     "Comment": "",
