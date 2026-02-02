@@ -2474,6 +2474,14 @@
   },
   {
     "User ID": 9,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-06",
+    "From Part": "  ",
+    "To Date": "2026-02-06"
+  },
+  {
+    "User ID": 9,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-09",
@@ -3243,20 +3251,20 @@
   },
   {
     "User ID": 4,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-09",
-    "From Part": "  ",
-    "To Date": "2026-02-13",
-    "To Part": "  "
-  },
-  {
-    "User ID": 4,
     "Status": "Travelling",
     "Comment": "<font face=\"Times New Roman\">Trieste-Nice</font>",
     "From Date": "2026-02-11",
     "From Part": "  ",
     "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 4,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
   },
   {
     "User ID": 4,
