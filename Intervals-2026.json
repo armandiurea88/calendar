@@ -2469,7 +2469,7 @@
     "Comment": "",
     "From Date": "2026-02-05",
     "From Part": "  ",
-    "To Date": "2026-02-06",
+    "To Date": "2026-02-05",
     "To Part": "  "
   },
   {
@@ -4398,6 +4398,15 @@
     "From Date": "2026-05-18",
     "From Part": "  ",
     "To Date": "2026-05-22",
+    "To Part": "  "
+  },
+  {
+    "User ID": 37,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-06-01",
+    "From Part": "  ",
+    "To Date": "2026-06-03",
     "To Part": "  "
   },
   {
