@@ -3226,6 +3226,14 @@
   },
   {
     "User ID": 4,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Nice-Trieste</font>",
+    "From Date": "2026-02-08",
+    "From Part": "PM",
+    "To Date": "2026-02-08"
+  },
+  {
+    "User ID": 4,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-09",
@@ -4339,7 +4347,7 @@
     "Comment": "",
     "From Date": "2026-05-11",
     "From Part": "  ",
-    "To Date": "2026-05-13",
+    "To Date": "2026-05-12",
     "To Part": "  "
   },
   {
