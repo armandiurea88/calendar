@@ -86,6 +86,14 @@
   },
   {
     "User ID": 44,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-02-06",
+    "From Part": "  ",
+    "To Date": "2026-02-06"
+  },
+  {
+    "User ID": 44,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-09",
