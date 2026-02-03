@@ -422,20 +422,20 @@
   },
   {
     "User ID": 25,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
-    "From Date": "2026-02-02",
-    "From Part": "AM",
-    "To Date": "2026-02-02"
-  },
-  {
-    "User ID": 25,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "PM",
     "To Date": "2026-02-05",
     "To Part": "AM"
+  },
+  {
+    "User ID": 25,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
+    "From Date": "2026-02-02",
+    "From Part": "AM",
+    "To Date": "2026-02-02"
   },
   {
     "User ID": 25,
@@ -2228,18 +2228,18 @@
   },
   {
     "User ID": 34,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-02-03",
-    "From Part": "AM",
-    "To Date": "2026-02-03"
-  },
-  {
-    "User ID": 34,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-03",
     "From Part": "PM",
+    "To Date": "2026-02-03"
+  },
+  {
+    "User ID": 34,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-02-03",
+    "From Part": "AM",
     "To Date": "2026-02-03"
   },
   {
@@ -2910,18 +2910,18 @@
   },
   {
     "User ID": 9,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-06-03",
-    "From Part": "AM",
-    "To Date": "2026-06-03"
-  },
-  {
-    "User ID": 9,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-06-03",
     "From Part": "PM",
+    "To Date": "2026-06-03"
+  },
+  {
+    "User ID": 9,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-06-03",
+    "From Part": "AM",
     "To Date": "2026-06-03"
   },
   {
@@ -5970,14 +5970,6 @@
     "Status": "Travelling",
     "Comment": "<font face=\"Times New Roman\">TST - MC</font>",
     "From Date": "2026-02-11",
-    "From Part": "  ",
-    "To Date": "2026-02-11"
-  },
-  {
-    "User ID": 48,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TST - MC</font>",
-    "From Date": "2026-02-11",
     "From Part": "AM",
     "To Date": "2026-02-11"
   },
@@ -5987,7 +5979,8 @@
     "Comment": "",
     "From Date": "2026-02-11",
     "From Part": "PM",
-    "To Date": "2026-02-11"
+    "To Date": "2026-02-12",
+    "To Part": "AM"
   },
   {
     "User ID": 48,
@@ -5997,14 +5990,6 @@
     "From Part": "PM",
     "To Date": "2026-02-13",
     "To Part": "  "
-  },
-  {
-    "User ID": 48,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-12",
-    "From Part": "AM",
-    "To Date": "2026-02-12"
   },
   {
     "User ID": 48,
