@@ -5968,10 +5968,11 @@
   {
     "User ID": 48,
     "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TST - MC</font>",
+    "Comment": "<font face=\"Times New Roman\">TST - RM</font>",
     "From Date": "2026-02-11",
     "From Part": "AM",
-    "To Date": "2026-02-11"
+    "To Date": "2026-02-11",
+    "To Part": "  "
   },
   {
     "User ID": 48,
