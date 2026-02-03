@@ -5683,6 +5683,24 @@
     "User ID": 5,
     "Status": "Office MC",
     "Comment": "",
+    "From Date": "2026-02-02",
+    "From Part": "  ",
+    "To Date": "2026-02-04",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 5,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-04",
+    "From Part": "PM",
+    "To Date": "2026-02-05",
+    "To Part": "  "
+  },
+  {
+    "User ID": 5,
+    "Status": "Office MC",
+    "Comment": "",
     "From Date": "2026-02-06",
     "From Part": "  ",
     "To Date": "2026-02-06"
@@ -5953,6 +5971,22 @@
     "Comment": "<font face=\"Times New Roman\">TST - MC</font>",
     "From Date": "2026-02-11",
     "From Part": "  ",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 48,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TST - MC</font>",
+    "From Date": "2026-02-11",
+    "From Part": "AM",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 48,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "PM",
     "To Date": "2026-02-11"
   },
   {
