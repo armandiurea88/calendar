@@ -977,6 +977,15 @@
   },
   {
     "User ID": 39,
+    "Status": "Credit Holidays",
+    "Comment": "Jour férié travaillé",
+    "From Date": "2026-01-27",
+    "From Part": "  ",
+    "To Date": "2026-01-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 39,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-02",
@@ -3810,7 +3819,7 @@
     "Comment": "",
     "From Date": "2026-05-26",
     "From Part": "  ",
-    "To Date": "2026-05-29",
+    "To Date": "2026-05-27",
     "To Part": "  "
   },
   {
