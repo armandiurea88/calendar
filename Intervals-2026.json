@@ -3815,6 +3815,15 @@
   },
   {
     "User ID": 38,
+    "Status": "Training",
+    "Comment": "<font face=\"Times New Roman\">Stage Croix Rouge</font>",
+    "From Date": "2026-05-28",
+    "From Part": "  ",
+    "To Date": "2026-05-29",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-06-01",
