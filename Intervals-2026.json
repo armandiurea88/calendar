@@ -1466,6 +1466,15 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Stage Croix Rouge</font>",
+    "From Date": "2026-05-28",
+    "From Part": "  ",
+    "To Date": "2026-05-29",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<span>NO BOOKING HOTEL - FORMULA 1 GP MC</span>",
     "From Date": "2026-06-03",
     "From Part": "  ",
@@ -5703,23 +5712,14 @@
     "From Date": "2026-02-02",
     "From Part": "  ",
     "To Date": "2026-02-04",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-02",
-    "From Part": "  ",
-    "To Date": "2026-02-04",
     "To Part": "  "
   },
   {
     "User ID": 5,
     "Status": "Tele Work",
     "Comment": "",
-    "From Date": "2026-02-04",
-    "From Part": "PM",
+    "From Date": "2026-02-05",
+    "From Part": "  ",
     "To Date": "2026-02-05",
     "To Part": "  "
   },
