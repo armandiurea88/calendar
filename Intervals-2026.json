@@ -4581,6 +4581,23 @@
     "To Part": "  "
   },
   {
+    "User ID": 10,
+    "Status": "Office MC",
+    "Comment": "<font face=\"Times New Roman\">MC&#160;</font><span class=\"fa fa-fw fa-car text-dark\" aria-hidden=\"true\"></span>&#160;&gt;<font face=\"Times New Roman\">&#160;TS</font>",
+    "From Date": "2026-02-08",
+    "From Part": "  ",
+    "To Date": "2026-02-08"
+  },
+  {
+    "User ID": 10,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
     "User ID": 26,
     "Status": "Holidays",
     "Comment": "",
