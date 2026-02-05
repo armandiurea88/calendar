@@ -5646,6 +5646,23 @@
     "To Part": "  "
   },
   {
+    "User ID": 33,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">MC &gt; TS</font>",
+    "From Date": "2026-03-14",
+    "From Part": "  ",
+    "To Date": "2026-03-14"
+  },
+  {
+    "User ID": 33,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-03-16",
+    "From Part": "  ",
+    "To Date": "2026-03-20",
+    "To Part": "  "
+  },
+  {
     "User ID": 5,
     "Status": "Holidays",
     "Comment": "",
