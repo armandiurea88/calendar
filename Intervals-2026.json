@@ -5638,6 +5638,14 @@
   },
   {
     "User ID": 33,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS &gt; MC</font>",
+    "From Date": "2026-03-08",
+    "From Part": "  ",
+    "To Date": "2026-03-08"
+  },
+  {
+    "User ID": 33,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-03-09",
