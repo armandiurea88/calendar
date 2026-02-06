@@ -914,6 +914,14 @@
   },
   {
     "User ID": 2,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TRS-MC</font>",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-12"
+  },
+  {
+    "User ID": 2,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-03-12",
