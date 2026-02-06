@@ -897,6 +897,15 @@
   },
   {
     "User ID": 2,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-09",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-03-12",
