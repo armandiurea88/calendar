@@ -897,6 +897,14 @@
   },
   {
     "User ID": 2,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">MC-TRS</font>",
+    "From Date": "2026-02-08",
+    "From Part": "PM",
+    "To Date": "2026-02-08"
+  },
+  {
+    "User ID": 2,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-09",
