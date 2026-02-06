@@ -2060,7 +2060,15 @@
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-06",
-    "From Part": "  ",
+    "From Part": "AM",
+    "To Date": "2026-02-06"
+  },
+  {
+    "User ID": 46,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-06",
+    "From Part": "PM",
     "To Date": "2026-02-06"
   },
   {
