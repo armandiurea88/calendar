@@ -2316,8 +2316,9 @@
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-02-11",
-    "From Part": "AM",
-    "To Date": "2026-02-11"
+    "From Part": "  ",
+    "To Date": "2026-02-11",
+    "To Part": "  "
   },
   {
     "User ID": 34,
