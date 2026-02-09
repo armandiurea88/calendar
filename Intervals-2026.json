@@ -3843,6 +3843,15 @@
     "User ID": 38,
     "Status": "Office MC",
     "Comment": "",
+    "From Date": "2026-04-13",
+    "From Part": "  ",
+    "To Date": "2026-04-17",
+    "To Part": "  "
+  },
+  {
+    "User ID": 38,
+    "Status": "Office MC",
+    "Comment": "",
     "From Date": "2026-04-20",
     "From Part": "  ",
     "To Date": "2026-04-23",
@@ -3882,14 +3891,6 @@
     "From Part": "  ",
     "To Date": "2026-05-13",
     "To Part": "  "
-  },
-  {
-    "User ID": 38,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-05-15",
-    "From Part": "  ",
-    "To Date": "2026-05-15"
   },
   {
     "User ID": 38,
