@@ -509,6 +509,16 @@
     "To Part": "  "
   },
   {
+    "User ID": 25,
+    "Status": "Dry Dock",
+    "Vessel": "LOS",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
     "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
@@ -3828,15 +3838,6 @@
     "From Date": "2026-04-06",
     "From Part": "  ",
     "To Date": "2026-04-10",
-    "To Part": "  "
-  },
-  {
-    "User ID": 38,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-04-13",
-    "From Part": "  ",
-    "To Date": "2026-04-17",
     "To Part": "  "
   },
   {
