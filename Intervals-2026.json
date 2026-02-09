@@ -521,6 +521,15 @@
   {
     "User ID": 25,
     "Status": "Dry Dock",
+    "Comment": "",
+    "From Date": "2026-02-28",
+    "From Part": "  ",
+    "To Date": "2026-03-01",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Dry Dock",
     "Vessel": "LOS",
     "Comment": "",
     "From Date": "2026-03-02",
