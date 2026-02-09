@@ -519,6 +519,25 @@
     "To Part": "  "
   },
   {
+    "User ID": 25,
+    "Status": "Dry Dock",
+    "Vessel": "LOS",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 25,
+    "Status": "Dry Dock",
+    "Comment": "",
+    "From Date": "2026-03-07",
+    "From Part": "  ",
+    "To Date": "2026-03-08",
+    "To Part": "  "
+  },
+  {
     "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
