@@ -636,6 +636,24 @@
   },
   {
     "User ID": 43,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "  ",
+    "To Date": "2026-02-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-16",
@@ -5876,7 +5894,7 @@
     "Comment": "",
     "From Date": "2026-03-09",
     "From Part": "  ",
-    "To Date": "2026-03-13",
+    "To Date": "2026-03-09",
     "To Part": "  "
   },
   {
