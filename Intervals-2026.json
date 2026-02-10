@@ -3521,6 +3521,15 @@
   },
   {
     "User ID": 4,
+    "Status": "Credit Holidays",
+    "Comment": "Working&Traveling",
+    "From Date": "2026-02-08",
+    "From Part": "  ",
+    "To Date": "2026-02-08",
+    "To Part": "  "
+  },
+  {
+    "User ID": 4,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-09",
