@@ -5746,6 +5746,14 @@
   },
   {
     "User ID": 15,
+    "Status": "Sick",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "AM",
+    "To Date": "2026-02-11"
+  },
+  {
+    "User ID": 15,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-12",
