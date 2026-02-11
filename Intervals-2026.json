@@ -500,21 +500,21 @@
   },
   {
     "User ID": 25,
-    "Status": "Dry Dock",
-    "Vessel": "LOS",
-    "Comment": "",
-    "From Date": "2026-02-16",
-    "From Part": "  ",
-    "To Date": "2026-02-22",
-    "To Part": "  "
-  },
-  {
-    "User ID": 25,
     "Status": "Travelling",
     "Comment": "<font face=\"Times New Roman\">TS-&gt; JAPAN ( MV LOSONE&#160; TOPIC DD)</font>",
     "From Date": "2026-02-16",
     "From Part": "  ",
     "To Date": "2026-02-16"
+  },
+  {
+    "User ID": 25,
+    "Status": "Dry Dock",
+    "Vessel": "LOS",
+    "Comment": "",
+    "From Date": "2026-02-17",
+    "From Part": "  ",
+    "To Date": "2026-02-22",
+    "To Part": "  "
   },
   {
     "User ID": 25,
@@ -5732,8 +5732,25 @@
     "Comment": "",
     "From Date": "2026-02-09",
     "From Part": "  ",
-    "To Date": "2026-02-12",
+    "To Date": "2026-02-10",
     "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-11",
+    "From Part": "PM",
+    "To Date": "2026-02-11",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-12",
+    "From Part": "  ",
+    "To Date": "2026-02-12"
   },
   {
     "User ID": 15,
