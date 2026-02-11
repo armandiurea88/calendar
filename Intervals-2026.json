@@ -510,6 +510,14 @@
   },
   {
     "User ID": 25,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS-&gt; JAPAN ( MV LOSONE&#160; TOPIC DD)</font>",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-16"
+  },
+  {
+    "User ID": 25,
     "Status": "Dry Dock",
     "Vessel": "LOS",
     "Comment": "",
