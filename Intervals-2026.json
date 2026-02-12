@@ -3475,6 +3475,23 @@
     "To Part": "  "
   },
   {
+    "User ID": 23,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Travelling to LOSONE TOPIC Tsuneishi</font>",
+    "From Date": "2026-02-15",
+    "From Part": "  ",
+    "To Date": "2026-02-15"
+  },
+  {
+    "User ID": 23,
+    "Status": "Dry Dock",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-03-08",
+    "To Part": "  "
+  },
+  {
     "User ID": 4,
     "Status": "Holidays",
     "Comment": "",
@@ -3546,20 +3563,20 @@
   },
   {
     "User ID": 4,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Nice-Trieste</font>",
-    "From Date": "2026-02-08",
-    "From Part": "PM",
-    "To Date": "2026-02-08"
-  },
-  {
-    "User ID": 4,
     "Status": "Credit Holidays",
     "Comment": "Working&Traveling",
     "From Date": "2026-02-08",
     "From Part": "  ",
     "To Date": "2026-02-08",
     "To Part": "  "
+  },
+  {
+    "User ID": 4,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Nice-Trieste</font>",
+    "From Date": "2026-02-08",
+    "From Part": "PM",
+    "To Date": "2026-02-08"
   },
   {
     "User ID": 4,
