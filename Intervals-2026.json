@@ -5978,8 +5978,25 @@
     "Comment": "",
     "From Date": "2026-03-09",
     "From Part": "  ",
+    "To Date": "2026-03-10",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 33,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
     "To Date": "2026-03-09",
     "To Part": "  "
+  },
+  {
+    "User ID": 33,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">MC&gt;TS</font>",
+    "From Date": "2026-03-10",
+    "From Part": "PM",
+    "To Date": "2026-03-10"
   },
   {
     "User ID": 33,
