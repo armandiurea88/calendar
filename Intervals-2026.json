@@ -989,14 +989,6 @@
     "Status": "Travelling",
     "Comment": "<font face=\"Times New Roman\">TRS-MC</font>",
     "From Date": "2026-02-12",
-    "From Part": "  ",
-    "To Date": "2026-02-12"
-  },
-  {
-    "User ID": 2,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TRS-MC</font>",
-    "From Date": "2026-02-12",
     "From Part": "AM",
     "To Date": "2026-02-12"
   },
@@ -1007,6 +999,15 @@
     "From Date": "2026-02-12",
     "From Part": "PM",
     "To Date": "2026-02-12"
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
   },
   {
     "User ID": 2,
