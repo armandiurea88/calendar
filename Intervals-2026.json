@@ -1572,6 +1572,14 @@
   {
     "User ID": 1003,
     "Status": "Event",
+    "Comment": "<font face=\"Times New Roman\">Signature Oshima</font>",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-09"
+  },
+  {
+    "User ID": 1003,
+    "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">NO BOOKING HOTEL - ECOMMERCE</font>",
     "From Date": "2026-03-10",
     "From Part": "  ",
