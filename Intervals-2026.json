@@ -2316,6 +2316,14 @@
   },
   {
     "User ID": 46,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-13",
+    "From Part": "  ",
+    "To Date": "2026-02-13"
+  },
+  {
+    "User ID": 46,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-16",
@@ -5980,15 +5988,6 @@
     "From Part": "  ",
     "To Date": "2026-03-10",
     "To Part": "AM"
-  },
-  {
-    "User ID": 33,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-09",
-    "From Part": "  ",
-    "To Date": "2026-03-09",
-    "To Part": "  "
   },
   {
     "User ID": 33,
