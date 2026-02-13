@@ -1186,15 +1186,6 @@
   },
   {
     "User ID": 39,
-    "Status": "Training",
-    "Comment": "<span>SILAE Paie</span><span>s</span>",
-    "From Date": "2026-02-17",
-    "From Part": "AM",
-    "To Date": "2026-02-17",
-    "To Part": "  "
-  },
-  {
-    "User ID": 39,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-23",
@@ -4960,7 +4951,7 @@
     "From Date": "2026-02-09",
     "From Part": "  ",
     "To Date": "2026-02-13",
-    "To Part": "  "
+    "To Part": "AM"
   },
   {
     "User ID": 26,
@@ -4973,15 +4964,6 @@
   {
     "User ID": 26,
     "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-02-16",
-    "From Part": "  ",
-    "To Date": "2026-02-20",
-    "To Part": "  "
-  },
-  {
-    "User ID": 26,
-    "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-16",
     "From Part": "  ",
