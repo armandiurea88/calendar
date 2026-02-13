@@ -4877,8 +4877,8 @@
   },
   {
     "User ID": 10,
-    "Status": "Office Trieste",
-    "Comment": "<font face=\"Times New Roman\">TS&#160;</font><span class=\"fa fa-fw fa-car text-dark\" aria-hidden=\"true\"></span>&#160;&gt; MC",
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS&gt;MC</font><span class=\"fa fa-fw fa-car text-success\" aria-hidden=\"true\"></span> Car Green",
     "From Date": "2026-02-14",
     "From Part": "  ",
     "To Date": "2026-02-14"
