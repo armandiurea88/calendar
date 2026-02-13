@@ -266,15 +266,6 @@
   },
   {
     "User ID": 1,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-16",
-    "From Part": "  ",
-    "To Date": "2026-02-19",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 1,
     "Status": "Visit",
     "Comment": "",
     "From Date": "2026-02-16",
@@ -297,6 +288,144 @@
     "From Date": "2026-02-19",
     "From Part": "PM",
     "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-03",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 1,
+    "Status": "Visit",
+    "Comment": "",
+    "From Date": "2026-03-03",
+    "From Part": "PM",
+    "To Date": "2026-03-03"
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-04",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-16",
+    "From Part": "  ",
+    "To Date": "2026-03-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-23",
+    "From Part": "  ",
+    "To Date": "2026-03-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-30",
+    "From Part": "  ",
+    "To Date": "2026-03-30"
+  },
+  {
+    "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Bruxelles</font>",
+    "From Date": "2026-03-31",
+    "From Part": "  ",
+    "To Date": "2026-03-31"
+  },
+  {
+    "User ID": 1,
+    "Status": "Visit",
+    "Comment": "Losone/Lugano",
+    "From Date": "2026-04-01",
+    "From Part": "PM",
+    "To Date": "2026-04-02",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "",
+    "From Date": "2026-04-01",
+    "From Part": "AM",
+    "To Date": "2026-04-01"
+  },
+  {
+    "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "",
+    "From Date": "2026-04-03",
+    "From Part": "  ",
+    "To Date": "2026-04-03"
+  },
+  {
+    "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-04-07",
+    "From Part": "  ",
+    "To Date": "2026-04-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "",
+    "From Date": "2026-04-27",
+    "From Part": "  ",
+    "To Date": "2026-04-27"
+  },
+  {
+    "User ID": 1,
+    "Status": "Visit",
+    "Comment": "",
+    "From Date": "2026-04-28",
+    "From Part": "  ",
+    "To Date": "2026-04-29",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-04-30",
+    "From Part": "  ",
+    "To Date": "2026-05-01",
     "To Part": "  "
   },
   {
