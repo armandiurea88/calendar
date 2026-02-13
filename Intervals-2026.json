@@ -275,6 +275,24 @@
   },
   {
     "User ID": 1,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-19",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 1,
+    "Status": "Travelling",
+    "Comment": "",
+    "From Date": "2026-02-19",
+    "From Part": "PM",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 1,
     "Status": "Travelling",
     "Comment": "",
     "From Date": "2026-02-20",
