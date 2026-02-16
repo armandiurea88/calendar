@@ -3665,20 +3665,21 @@
   },
   {
     "User ID": 23,
-    "Status": "Dry Dock",
-    "Comment": "",
-    "From Date": "2026-02-16",
-    "From Part": "  ",
-    "To Date": "2026-03-08",
-    "To Part": "  "
-  },
-  {
-    "User ID": 23,
     "Status": "Travelling",
     "Comment": "<font face=\"Times New Roman\">&gt; Tokyo &gt; Fukuyama</font>",
     "From Date": "2026-02-16",
     "From Part": "  ",
     "To Date": "2026-02-16"
+  },
+  {
+    "User ID": 23,
+    "Status": "Dry Dock",
+    "Vessel": "LOS",
+    "Comment": "",
+    "From Date": "2026-02-17",
+    "From Part": "  ",
+    "To Date": "2026-03-08",
+    "To Part": "  "
   },
   {
     "User ID": 4,
@@ -5419,6 +5420,15 @@
     "From Date": "2026-02-09",
     "From Part": "  ",
     "To Date": "2026-02-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the Office</font>",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
     "To Part": "  "
   },
   {
