@@ -3673,6 +3673,14 @@
     "To Part": "  "
   },
   {
+    "User ID": 23,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">&gt; Tokyo &gt; Fukuyama</font>",
+    "From Date": "2026-02-16",
+    "From Part": "  ",
+    "To Date": "2026-02-16"
+  },
+  {
     "User ID": 4,
     "Status": "Holidays",
     "Comment": "",
