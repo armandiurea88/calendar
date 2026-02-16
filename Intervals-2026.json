@@ -1175,6 +1175,24 @@
   },
   {
     "User ID": 2,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-17",
+    "From Part": "  ",
+    "To Date": "2026-02-18",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-02-19",
+    "From Part": "  ",
+    "To Date": "2026-02-20",
+    "To Part": "  "
+  },
+  {
+    "User ID": 2,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-03-12",
@@ -1434,7 +1452,7 @@
     "Comment": "",
     "From Date": "2026-04-13",
     "From Part": "  ",
-    "To Date": "2026-04-17",
+    "To Date": "2026-04-15",
     "To Part": "  "
   },
   {
