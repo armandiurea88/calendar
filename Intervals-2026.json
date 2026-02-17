@@ -4828,14 +4828,6 @@
     "Comment": "",
     "From Date": "2026-02-16",
     "From Part": "  ",
-    "To Date": "2026-02-16"
-  },
-  {
-    "User ID": 37,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-16",
-    "From Part": "  ",
     "To Date": "2026-02-17",
     "To Part": "  "
   },
@@ -4843,7 +4835,7 @@
     "User ID": 37,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2026-02-17",
+    "From Date": "2026-02-18",
     "From Part": "  ",
     "To Date": "2026-02-20",
     "To Part": "  "
@@ -6755,6 +6747,15 @@
     "From Date": "2026-03-02",
     "From Part": "  ",
     "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
     "To Part": "  "
   },
   {
