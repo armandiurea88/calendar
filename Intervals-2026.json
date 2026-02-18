@@ -2600,6 +2600,41 @@
   },
   {
     "User ID": 46,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-10",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Trieste</font>",
+    "From Date": "2026-03-10",
+    "From Part": "PM",
+    "To Date": "2026-03-10"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-03-11",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-12",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-03-16",
