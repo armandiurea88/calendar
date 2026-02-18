@@ -2544,7 +2544,7 @@
     "Comment": "",
     "From Date": "2026-02-16",
     "From Part": "  ",
-    "To Date": "2026-02-20",
+    "To Date": "2026-02-19",
     "To Part": "  "
   },
   {
@@ -2562,6 +2562,15 @@
     "From Date": "2026-02-20",
     "From Part": "AM",
     "To Date": "2026-02-20"
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<span>Singapore - Manila - Jakarta</span>",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-03-01",
+    "To Part": "  "
   },
   {
     "User ID": 46,
