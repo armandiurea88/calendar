@@ -2507,18 +2507,18 @@
   },
   {
     "User ID": 46,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-02-06",
-    "From Part": "AM",
-    "To Date": "2026-02-06"
-  },
-  {
-    "User ID": 46,
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-02-06",
     "From Part": "PM",
+    "To Date": "2026-02-06"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-02-06",
+    "From Part": "AM",
     "To Date": "2026-02-06"
   },
   {
@@ -2575,20 +2575,28 @@
   {
     "User ID": 46,
     "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Monaco</font>",
-    "From Date": "2026-02-23",
+    "Comment": "<span>Singapore - Manila - Jakarta</span>",
+    "From Date": "2026-03-02",
     "From Part": "  ",
-    "To Date": "2026-02-25",
+    "To Date": "2026-03-03",
     "To Part": "  "
   },
   {
     "User ID": 46,
     "Status": "Office Trieste",
     "Comment": "",
-    "From Date": "2026-02-26",
+    "From Date": "2026-03-04",
     "From Part": "  ",
-    "To Date": "2026-02-27",
+    "To Date": "2026-03-06",
     "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Monaco</font>",
+    "From Date": "2026-03-08",
+    "From Part": "  ",
+    "To Date": "2026-03-08"
   },
   {
     "User ID": 46,
