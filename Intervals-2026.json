@@ -2677,6 +2677,47 @@
     "To Date": "2026-04-02"
   },
   {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-04-03",
+    "From Part": "  ",
+    "To Date": "2026-04-03"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-04-07",
+    "From Part": "  ",
+    "To Date": "2026-04-07"
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Monaco</font>",
+    "From Date": "2026-04-08",
+    "From Part": "  ",
+    "To Date": "2026-04-08"
+  },
+  {
+    "User ID": 46,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-04-09",
+    "From Part": "  ",
+    "To Date": "2026-04-10",
+    "To Part": "  "
+  },
+  {
+    "User ID": 46,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Trieste</font>",
+    "From Date": "2026-04-11",
+    "From Part": "  ",
+    "To Date": "2026-04-11"
+  },
+  {
     "User ID": 34,
     "Status": "Tele Work",
     "Comment": "",
