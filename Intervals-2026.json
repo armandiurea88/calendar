@@ -612,20 +612,20 @@
   },
   {
     "User ID": 25,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
-    "From Date": "2026-02-02",
-    "From Part": "AM",
-    "To Date": "2026-02-02"
-  },
-  {
-    "User ID": 25,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-02",
     "From Part": "PM",
     "To Date": "2026-02-05",
     "To Part": "AM"
+  },
+  {
+    "User ID": 25,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TS - MC</font>",
+    "From Date": "2026-02-02",
+    "From Part": "AM",
+    "To Date": "2026-02-02"
   },
   {
     "User ID": 25,
@@ -953,34 +953,8 @@
     "Comment": "",
     "From Date": "2026-08-17",
     "From Part": "  ",
-    "To Date": "2026-08-17",
-    "To Part": "  "
-  },
-  {
-    "User ID": 43,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-08-17",
-    "From Part": "  ",
     "To Date": "2026-08-21",
     "To Part": "  "
-  },
-  {
-    "User ID": 43,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-08-18",
-    "From Part": "  ",
-    "To Date": "2026-08-18",
-    "To Part": "  "
-  },
-  {
-    "User ID": 43,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-08-19",
-    "From Part": "  ",
-    "To Date": "2026-08-19"
   },
   {
     "User ID": 43,
@@ -990,14 +964,6 @@
     "From Part": "  ",
     "To Date": "2026-08-20",
     "To Part": "  "
-  },
-  {
-    "User ID": 43,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-08-21",
-    "From Part": "  ",
-    "To Date": "2026-08-21"
   },
   {
     "User ID": 43,
@@ -1158,20 +1124,20 @@
   },
   {
     "User ID": 2,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">TRS-MC</font>",
+    "From Date": "2026-02-12",
+    "From Part": "AM",
+    "To Date": "2026-02-12"
+  },
+  {
+    "User ID": 2,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-12",
     "From Part": "PM",
     "To Date": "2026-02-13",
     "To Part": "  "
-  },
-  {
-    "User ID": 2,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">TRS-MC</font>",
-    "From Date": "2026-02-12",
-    "From Part": "AM",
-    "To Date": "2026-02-12"
   },
   {
     "User ID": 2,
@@ -2516,18 +2482,18 @@
   },
   {
     "User ID": 46,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-06",
-    "From Part": "PM",
-    "To Date": "2026-02-06"
-  },
-  {
-    "User ID": 46,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-06",
     "From Part": "AM",
+    "To Date": "2026-02-06"
+  },
+  {
+    "User ID": 46,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-06",
+    "From Part": "PM",
     "To Date": "2026-02-06"
   },
   {
@@ -2972,15 +2938,6 @@
     "From Date": "2026-02-23",
     "From Part": "  ",
     "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 34,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-06-22",
-    "From Part": "  ",
-    "To Date": "2026-06-26",
     "To Part": "  "
   },
   {
@@ -3582,18 +3539,18 @@
   },
   {
     "User ID": 9,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-06-03",
-    "From Part": "PM",
-    "To Date": "2026-06-03"
-  },
-  {
-    "User ID": 9,
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-06-03",
     "From Part": "AM",
+    "To Date": "2026-06-03"
+  },
+  {
+    "User ID": 9,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-06-03",
+    "From Part": "PM",
     "To Date": "2026-06-03"
   },
   {
