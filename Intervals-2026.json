@@ -7298,5 +7298,23 @@
     "From Part": "  ",
     "To Date": "2026-08-14",
     "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-08-17",
+    "From Part": "  ",
+    "To Date": "2026-08-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-08-24",
+    "From Part": "  ",
+    "To Date": "2026-08-28",
+    "To Part": "  "
   }
 ]
