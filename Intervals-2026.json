@@ -7285,6 +7285,40 @@
   },
   {
     "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-03",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-04",
+    "From Part": "PM",
+    "To Date": "2026-03-04"
+  },
+  {
+    "User ID": 24,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-03-04",
+    "From Part": "AM",
+    "To Date": "2026-03-04"
+  },
+  {
+    "User ID": 24,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-05",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 24,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-08-10",
