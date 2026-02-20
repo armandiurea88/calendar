@@ -129,6 +129,41 @@
     "To Part": "  "
   },
   {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-03",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Brussels - Meeting witht the EU</font>",
+    "From Date": "2026-03-04",
+    "From Part": "  ",
+    "To Date": "2026-03-04"
+  },
+  {
+    "User ID": 44,
+    "Status": "Travelling",
+    "Comment": "<span>Brussels - Meeting witht the EU</span>",
+    "From Date": "2026-03-05",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2026-03-09",
+    "From Part": "  ",
+    "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
@@ -6910,6 +6945,15 @@
     "From Date": "2026-03-09",
     "From Part": "  ",
     "To Date": "2026-03-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-16",
+    "From Part": "  ",
+    "To Date": "2026-03-20",
     "To Part": "  "
   },
   {
