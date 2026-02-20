@@ -120,6 +120,15 @@
     "To Part": "  "
   },
   {
+    "User ID": 44,
+    "Status": "Office Verona",
+    "Comment": "",
+    "From Date": "2026-02-23",
+    "From Part": "  ",
+    "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
@@ -4965,15 +4974,6 @@
     "From Date": "2026-02-09",
     "From Part": "  ",
     "To Date": "2026-02-13",
-    "To Part": "  "
-  },
-  {
-    "User ID": 37,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-16",
-    "From Part": "  ",
-    "To Date": "2026-02-19",
     "To Part": "  "
   },
   {
