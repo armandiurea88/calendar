@@ -6957,6 +6957,24 @@
     "To Part": "  "
   },
   {
+    "User ID": 48,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-23",
+    "From Part": "  ",
+    "To Date": "2026-03-26",
+    "To Part": "AM"
+  },
+  {
+    "User ID": 48,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-03-26",
+    "From Part": "PM",
+    "To Date": "2026-03-27",
+    "To Part": "  "
+  },
+  {
     "User ID": 21,
     "Status": "Holidays",
     "Comment": "",
