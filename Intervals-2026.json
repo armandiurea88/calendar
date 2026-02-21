@@ -6286,6 +6286,15 @@
   },
   {
     "User ID": 15,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-02-21",
+    "From Part": "  ",
+    "To Date": "2026-02-22",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
     "Status": "Office Trieste",
     "Comment": "",
     "From Date": "2026-02-23",
@@ -6299,6 +6308,15 @@
     "From Date": "2026-02-24",
     "From Part": "  ",
     "To Date": "2026-02-27",
+    "To Part": "  "
+  },
+  {
+    "User ID": 15,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
     "To Part": "  "
   },
   {
