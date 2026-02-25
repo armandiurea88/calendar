@@ -6983,6 +6983,32 @@
     "To Date": "2026-03-27"
   },
   {
+    "User ID": 5,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-05-04",
+    "From Part": "  ",
+    "To Date": "2026-05-08",
+    "To Part": "  "
+  },
+  {
+    "User ID": 5,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-05-11",
+    "From Part": "  ",
+    "To Date": "2026-05-13",
+    "To Part": "  "
+  },
+  {
+    "User ID": 5,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-05-15",
+    "From Part": "  ",
+    "To Date": "2026-05-15"
+  },
+  {
     "User ID": 40,
     "Status": "Holidays",
     "Comment": "",
