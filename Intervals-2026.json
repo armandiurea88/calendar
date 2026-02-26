@@ -5653,9 +5653,63 @@
     "User ID": 13,
     "Status": "Holidays",
     "Comment": "",
+    "From Date": "2026-07-13",
+    "From Part": "  ",
+    "To Date": "2026-07-17",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Holidays",
+    "Comment": "",
     "From Date": "2026-07-20",
     "From Part": "  ",
     "To Date": "2026-07-24",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-07-27",
+    "From Part": "  ",
+    "To Date": "2026-07-31",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-08-03",
+    "From Part": "  ",
+    "To Date": "2026-08-07",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-08-10",
+    "From Part": "  ",
+    "To Date": "2026-08-14",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-08-17",
+    "From Part": "  ",
+    "To Date": "2026-08-21",
+    "To Part": "  "
+  },
+  {
+    "User ID": 13,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-08-24",
+    "From Part": "  ",
+    "To Date": "2026-08-28",
     "To Part": "  "
   },
   {
@@ -6544,14 +6598,6 @@
     "From Part": "  ",
     "To Date": "2026-02-26",
     "To Part": "AM"
-  },
-  {
-    "User ID": 33,
-    "Status": "Sick",
-    "Comment": "<font face=\"Times New Roman\">14:00 - 15:30 MR @Salus Trieste</font>",
-    "From Date": "2026-02-26",
-    "From Part": "PM",
-    "To Date": "2026-02-26"
   },
   {
     "User ID": 33,
