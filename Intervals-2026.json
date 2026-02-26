@@ -5650,6 +5650,15 @@
     "To Part": "  "
   },
   {
+    "User ID": 13,
+    "Status": "Holidays",
+    "Comment": "",
+    "From Date": "2026-07-20",
+    "From Part": "  ",
+    "To Date": "2026-07-24",
+    "To Part": "  "
+  },
+  {
     "User ID": 45,
     "Status": "Office South Africa",
     "Comment": "<font face=\"Times New Roman\">Working</font>",
@@ -6525,15 +6534,6 @@
     "From Date": "2026-02-16",
     "From Part": "  ",
     "To Date": "2026-02-20",
-    "To Part": "  "
-  },
-  {
-    "User ID": 33,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-27",
     "To Part": "  "
   },
   {
