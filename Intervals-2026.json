@@ -1781,6 +1781,15 @@
     "To Part": "  "
   },
   {
+    "User ID": 16,
+    "Status": "Office Trieste",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
     "User ID": 1003,
     "Status": "Event",
     "Comment": "<font face=\"Times New Roman\">Rallye Automobil MC</font>",
@@ -5488,7 +5497,7 @@
     "Comment": "",
     "From Date": "2026-02-23",
     "From Part": "  ",
-    "To Date": "2026-02-27",
+    "To Date": "2026-02-23",
     "To Part": "  "
   },
   {
