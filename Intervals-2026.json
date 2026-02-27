@@ -120,50 +120,6 @@
     "To Part": "  "
   },
   {
-    "User ID": 44,
-    "Status": "Office Verona",
-    "Comment": "",
-    "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 44,
-    "Status": "Office Verona",
-    "Comment": "",
-    "From Date": "2026-03-02",
-    "From Part": "  ",
-    "To Date": "2026-03-03",
-    "To Part": "  "
-  },
-  {
-    "User ID": 44,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Brussels - Meeting witht the EU</font>",
-    "From Date": "2026-03-04",
-    "From Part": "  ",
-    "To Date": "2026-03-04"
-  },
-  {
-    "User ID": 44,
-    "Status": "Travelling",
-    "Comment": "<span>Brussels - Meeting witht the EU</span>",
-    "From Date": "2026-03-05",
-    "From Part": "  ",
-    "To Date": "2026-03-06",
-    "To Part": "  "
-  },
-  {
-    "User ID": 44,
-    "Status": "Office Verona",
-    "Comment": "",
-    "From Date": "2026-03-09",
-    "From Part": "  ",
-    "To Date": "2026-03-13",
-    "To Part": "  "
-  },
-  {
     "User ID": 1,
     "Status": "Holidays",
     "Comment": "",
@@ -603,15 +559,6 @@
     "To Part": "  "
   },
   {
-    "User ID": 22,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-02",
-    "From Part": "  ",
-    "To Date": "2026-03-06",
-    "To Part": "  "
-  },
-  {
     "User ID": 25,
     "Status": "Holidays",
     "Comment": "",
@@ -903,6 +850,14 @@
   },
   {
     "User ID": 43,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-07",
+    "From Part": "  ",
+    "To Date": "2026-03-07"
+  },
+  {
+    "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-03-09",
@@ -941,7 +896,7 @@
     "User ID": 43,
     "Status": "Office MC",
     "Comment": "",
-    "From Date": "2026-04-07",
+    "From Date": "2026-04-06",
     "From Part": "  ",
     "To Date": "2026-04-10",
     "To Part": "  "
@@ -1228,15 +1183,6 @@
   },
   {
     "User ID": 2,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 2,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-03-12",
@@ -1414,24 +1360,6 @@
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-24",
-    "To Part": "  "
-  },
-  {
-    "User ID": 39,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-25",
-    "From Part": "  ",
-    "To Date": "2026-02-25",
-    "To Part": "  "
-  },
-  {
-    "User ID": 39,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-02-26",
     "From Part": "  ",
     "To Date": "2026-02-27",
     "To Part": "  "
@@ -1778,15 +1706,6 @@
     "From Date": "2026-02-23",
     "From Part": "  ",
     "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 16,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-03-02",
-    "From Part": "  ",
-    "To Date": "2026-03-06",
     "To Part": "  "
   },
   {
@@ -2289,15 +2208,6 @@
     "To Part": "  "
   },
   {
-    "User ID": 49,
-    "Status": "Office South Africa",
-    "Comment": "",
-    "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
     "User ID": 47,
     "Status": "Office UK",
     "Comment": "",
@@ -2782,41 +2692,6 @@
     "From Date": "2026-04-11",
     "From Part": "  ",
     "To Date": "2026-04-11"
-  },
-  {
-    "User ID": 201,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-03-24",
-    "From Part": "  ",
-    "To Date": "2026-03-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 201,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-03-30",
-    "From Part": "  ",
-    "To Date": "2026-04-03",
-    "To Part": "  "
-  },
-  {
-    "User ID": 201,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-04-07",
-    "From Part": "  ",
-    "To Date": "2026-04-10",
-    "To Part": "  "
-  },
-  {
-    "User ID": 201,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-04-13",
-    "From Part": "  ",
-    "To Date": "2026-04-13"
   },
   {
     "User ID": 34,
@@ -4149,16 +4024,8 @@
     "Comment": "",
     "From Date": "2026-03-16",
     "From Part": "  ",
-    "To Date": "2026-03-19",
+    "To Date": "2026-03-20",
     "To Part": "  "
-  },
-  {
-    "User ID": 4,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-03-20",
-    "From Part": "  ",
-    "To Date": "2026-03-20"
   },
   {
     "User ID": 4,
@@ -5497,15 +5364,6 @@
     "Comment": "",
     "From Date": "2026-02-23",
     "From Part": "  ",
-    "To Date": "2026-02-23",
-    "To Part": "  "
-  },
-  {
-    "User ID": 26,
-    "Status": "Travelling",
-    "Comment": "<font face=\"Times New Roman\">Manila &gt; Jakarta</font>",
-    "From Date": "2026-02-24",
-    "From Part": "  ",
     "To Date": "2026-02-27",
     "To Part": "  "
   },
@@ -5668,69 +5526,6 @@
     "To Part": "  "
   },
   {
-    "User ID": 13,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-07-13",
-    "From Part": "  ",
-    "To Date": "2026-07-17",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-07-20",
-    "From Part": "  ",
-    "To Date": "2026-07-24",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-07-27",
-    "From Part": "  ",
-    "To Date": "2026-07-31",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-08-03",
-    "From Part": "  ",
-    "To Date": "2026-08-07",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-08-10",
-    "From Part": "  ",
-    "To Date": "2026-08-14",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-08-17",
-    "From Part": "  ",
-    "To Date": "2026-08-21",
-    "To Part": "  "
-  },
-  {
-    "User ID": 13,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-08-24",
-    "From Part": "  ",
-    "To Date": "2026-08-28",
-    "To Part": "  "
-  },
-  {
     "User ID": 45,
     "Status": "Office South Africa",
     "Comment": "<font face=\"Times New Roman\">Working</font>",
@@ -5816,23 +5611,6 @@
     "From Part": "  ",
     "To Date": "2026-02-20",
     "To Part": "  "
-  },
-  {
-    "User ID": 45,
-    "Status": "Office South Africa",
-    "Comment": "<font face=\"Times New Roman\">In the office</font>",
-    "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-26",
-    "To Part": "  "
-  },
-  {
-    "User ID": 45,
-    "Status": "Office South Africa",
-    "Comment": "<font face=\"Times New Roman\">Breede weekend Avalon</font>",
-    "From Date": "2026-02-27",
-    "From Part": "  ",
-    "To Date": "2026-02-27"
   },
   {
     "User ID": 28,
@@ -6471,41 +6249,6 @@
     "To Date": "2026-02-17"
   },
   {
-    "User ID": 15,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-21",
-    "From Part": "  ",
-    "To Date": "2026-02-22",
-    "To Part": "  "
-  },
-  {
-    "User ID": 15,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-02-23",
-    "From Part": "  ",
-    "To Date": "2026-02-23"
-  },
-  {
-    "User ID": 15,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-02-24",
-    "From Part": "  ",
-    "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 15,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-03-02",
-    "From Part": "  ",
-    "To Date": "2026-03-06",
-    "To Part": "  "
-  },
-  {
     "User ID": 33,
     "Status": "Office Trieste",
     "Comment": "",
@@ -6614,16 +6357,8 @@
     "Comment": "",
     "From Date": "2026-02-23",
     "From Part": "  ",
-    "To Date": "2026-02-26",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 33,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-02-27",
-    "From Part": "  ",
-    "To Date": "2026-02-27"
+    "To Date": "2026-02-27",
+    "To Part": "  "
   },
   {
     "User ID": 33,
@@ -6929,192 +6664,6 @@
     "To Date": "2026-02-27"
   },
   {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-02",
-    "From Part": "  ",
-    "To Date": "2026-03-02"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-03",
-    "From Part": "  ",
-    "To Date": "2026-03-03"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-04",
-    "From Part": "  ",
-    "To Date": "2026-03-04"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-05",
-    "From Part": "  ",
-    "To Date": "2026-03-05"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-06",
-    "From Part": "  ",
-    "To Date": "2026-03-06"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-09",
-    "From Part": "  ",
-    "To Date": "2026-03-09"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-10",
-    "From Part": "  ",
-    "To Date": "2026-03-10"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-11",
-    "From Part": "  ",
-    "To Date": "2026-03-11"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-12",
-    "From Part": "  ",
-    "To Date": "2026-03-12"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-13",
-    "From Part": "  ",
-    "To Date": "2026-03-13"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-16",
-    "From Part": "  ",
-    "To Date": "2026-03-16"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-17",
-    "From Part": "  ",
-    "To Date": "2026-03-17"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-18",
-    "From Part": "  ",
-    "To Date": "2026-03-18"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-19",
-    "From Part": "  ",
-    "To Date": "2026-03-19"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-20",
-    "From Part": "  ",
-    "To Date": "2026-03-20"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-23",
-    "From Part": "  ",
-    "To Date": "2026-03-23"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-24",
-    "From Part": "  ",
-    "To Date": "2026-03-24"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-25",
-    "From Part": "  ",
-    "To Date": "2026-03-25"
-  },
-  {
-    "User ID": 5,
-    "Status": "Tele Work",
-    "Comment": "",
-    "From Date": "2026-03-26",
-    "From Part": "  ",
-    "To Date": "2026-03-26"
-  },
-  {
-    "User ID": 5,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-27",
-    "From Part": "  ",
-    "To Date": "2026-03-27"
-  },
-  {
-    "User ID": 5,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-05-04",
-    "From Part": "  ",
-    "To Date": "2026-05-08",
-    "To Part": "  "
-  },
-  {
-    "User ID": 5,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-05-11",
-    "From Part": "  ",
-    "To Date": "2026-05-13",
-    "To Part": "  "
-  },
-  {
-    "User ID": 5,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-05-15",
-    "From Part": "  ",
-    "To Date": "2026-05-15"
-  },
-  {
     "User ID": 40,
     "Status": "Holidays",
     "Comment": "",
@@ -7363,51 +6912,6 @@
     "To Part": "  "
   },
   {
-    "User ID": 48,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-16",
-    "From Part": "  ",
-    "To Date": "2026-03-20",
-    "To Part": "  "
-  },
-  {
-    "User ID": 48,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-23",
-    "From Part": "  ",
-    "To Date": "2026-03-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 48,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-03-30",
-    "From Part": "  ",
-    "To Date": "2026-04-03",
-    "To Part": "  "
-  },
-  {
-    "User ID": 48,
-    "Status": "Office MC",
-    "Comment": "",
-    "From Date": "2026-04-07",
-    "From Part": "  ",
-    "To Date": "2026-04-09",
-    "To Part": "AM"
-  },
-  {
-    "User ID": 48,
-    "Status": "Holidays",
-    "Comment": "",
-    "From Date": "2026-04-09",
-    "From Part": "PM",
-    "To Date": "2026-04-10",
-    "To Part": "  "
-  },
-  {
     "User ID": 21,
     "Status": "Holidays",
     "Comment": "",
@@ -7574,33 +7078,6 @@
     "From Date": "2026-02-24",
     "From Part": "  ",
     "To Date": "2026-02-27",
-    "To Part": "  "
-  },
-  {
-    "User ID": 21,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-03-02",
-    "From Part": "  ",
-    "To Date": "2026-03-06",
-    "To Part": "  "
-  },
-  {
-    "User ID": 21,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-03-09",
-    "From Part": "  ",
-    "To Date": "2026-03-13",
-    "To Part": "  "
-  },
-  {
-    "User ID": 21,
-    "Status": "Office Trieste",
-    "Comment": "",
-    "From Date": "2026-03-16",
-    "From Part": "  ",
-    "To Date": "2026-03-20",
     "To Part": "  "
   },
   {
