@@ -587,12 +587,38 @@
   },
   {
     "User ID": 22,
+    "Status": "Travelling",
+    "Comment": "<font face=\"Times New Roman\">Monaco-Paris-Rouen</font>",
+    "From Date": "2026-03-01",
+    "From Part": "  ",
+    "To Date": "2026-03-01"
+  },
+  {
+    "User ID": 22,
+    "Status": "On Board",
+    "Vessel": "AL2",
+    "Comment": "A<font face=\"Times New Roman\">lberto in Rouen</font>",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-02"
+  },
+  {
+    "User ID": 22,
     "Status": "Office MC",
     "Comment": "",
     "From Date": "2026-03-02",
     "From Part": "  ",
     "To Date": "2026-03-06",
     "To Part": "  "
+  },
+  {
+    "User ID": 22,
+    "Status": "On Board",
+    "Vessel": "AL2",
+    "Comment": "",
+    "From Date": "2026-03-03",
+    "From Part": "AM",
+    "To Date": "2026-03-03"
   },
   {
     "User ID": 25,
@@ -7589,7 +7615,7 @@
     "Status": "Tele Work",
     "Comment": "",
     "From Date": "2026-03-01",
-    "From Part": "  ",
+    "From Part": "PM",
     "To Date": "2026-03-01"
   },
   {
