@@ -6428,6 +6428,39 @@
   },
   {
     "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-04-20",
+    "From Part": "  ",
+    "To Date": "2026-04-20"
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-04-21",
+    "From Part": "  ",
+    "To Date": "2026-04-21"
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-04-22",
+    "From Part": "  ",
+    "To Date": "2026-04-23",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-04-24",
+    "From Part": "  ",
+    "To Date": "2026-04-24"
+  },
+  {
+    "User ID": 28,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-08-10",
