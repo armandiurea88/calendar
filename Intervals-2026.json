@@ -6370,6 +6370,31 @@
   },
   {
     "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-04-07",
+    "From Part": "  ",
+    "To Date": "2026-04-07"
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-04-08",
+    "From Part": "  ",
+    "To Date": "2026-04-09",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-04-10",
+    "From Part": "  ",
+    "To Date": "2026-04-10"
+  },
+  {
+    "User ID": 28,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-08-10",
