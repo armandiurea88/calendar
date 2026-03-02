@@ -2324,6 +2324,15 @@
     "To Part": "  "
   },
   {
+    "User ID": 49,
+    "Status": "Office South Africa",
+    "Comment": "",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-06",
+    "To Part": "  "
+  },
+  {
     "User ID": 47,
     "Status": "Office UK",
     "Comment": "",
@@ -5884,6 +5893,14 @@
     "From Date": "2026-02-27",
     "From Part": "  ",
     "To Date": "2026-02-27"
+  },
+  {
+    "User ID": 45,
+    "Status": "Office South Africa",
+    "Comment": "<font face=\"Times New Roman\">In the office</font>",
+    "From Date": "2026-03-02",
+    "From Part": "  ",
+    "To Date": "2026-03-02"
   },
   {
     "User ID": 45,
