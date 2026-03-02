@@ -6337,6 +6337,39 @@
   },
   {
     "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-03-30",
+    "From Part": "  ",
+    "To Date": "2026-03-30"
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-03-31",
+    "From Part": "  ",
+    "To Date": "2026-03-31"
+  },
+  {
+    "User ID": 28,
+    "Status": "Office MC",
+    "Comment": "",
+    "From Date": "2026-04-01",
+    "From Part": "  ",
+    "To Date": "2026-04-02",
+    "To Part": "  "
+  },
+  {
+    "User ID": 28,
+    "Status": "Tele Work",
+    "Comment": "",
+    "From Date": "2026-04-03",
+    "From Part": "  ",
+    "To Date": "2026-04-03"
+  },
+  {
+    "User ID": 28,
     "Status": "Holidays",
     "Comment": "",
     "From Date": "2026-08-10",
